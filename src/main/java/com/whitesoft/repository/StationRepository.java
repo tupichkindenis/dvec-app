@@ -37,5 +37,9 @@ public interface StationRepository extends PagingAndSortingRepository<Station, U
     @Override
     void deleteAll();
 
+    @Cacheable("stationCache")
+    Page<Station> findAll(Pageable pageable);
+
+
     List<Station> findByName(@Param("name") String name);
 }
