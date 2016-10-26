@@ -1,0 +1,9077 @@
+[
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Арсеньевское отделение",
+      "id": "9379683D-9DFA-40A5-83C1-35000B7A9138"
+    },
+    "name": "Арсеньевское отделение",
+    "address": {
+      "index": 692337,
+      "region": "Приморский край",
+      "settlement": "г. Арсеньев",
+      "street": "ул. Октябрьская",
+      "building": "15/1"
+    },
+    "location": {},
+    "phones": [
+      "42361 3-55-98",
+      null,
+      null
+    ],
+    "faxes": [
+      "42361 4-34-25",
+      null
+    ],
+    "emails": [
+      "secretar@arsen.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 9
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Арсеньевское отделение",
+      "id": "9379683D-9DFA-40A5-83C1-35000B7A9138"
+    },
+    "name": "Чугуевский участок",
+    "address": {
+      "index": 692623,
+      "region": "Приморский край",
+      "settlement": "с. Чугуевка",
+      "street": "ул. Комсомольская",
+      "building": "6"
+    },
+    "location": {},
+    "phones": [
+      "42372 2-21-29",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "secretar@arsen.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 9
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Арсеньевское отделение",
+      "id": "9379683D-9DFA-40A5-83C1-35000B7A9138"
+    },
+    "name": "Абонентский пункт Яковлевского района",
+    "address": {
+      "index": 692361,
+      "region": "Приморский край",
+      "settlement": "с. Яковлевка",
+      "street": "ул. Советская",
+      "building": "74"
+    },
+    "location": {},
+    "phones": [
+      "42361 3-55-98",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "secretar@arsen.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 9
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Арсеньевское отделение",
+      "id": "9379683D-9DFA-40A5-83C1-35000B7A9138"
+    },
+    "name": "Абонентский отдел Анучинского района",
+    "address": {
+      "index": 692300,
+      "region": "Приморский край",
+      "settlement": "с. Анучино",
+      "street": "ул. Шевченко",
+      "building": "35"
+    },
+    "location": {},
+    "phones": [
+      "42361 3-55-98 ",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "secretar@arsen.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 9
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Артемовский РКЦ",
+      "id": "67B14F4D-E1EB-42D4-8F54-1FE69A3CCC45"
+    },
+    "name": "Артемовский РКЦ",
+    "address": {
+      "index": 692670,
+      "region": "Приморский край",
+      "settlement": "г. Артем",
+      "street": "ул. Каширская",
+      "building": "21а"
+    },
+    "location": {},
+    "phones": [
+      "42337 9-17-54",
+      "42337 9-15-46",
+      null
+    ],
+    "faxes": [
+      "42337 9-14-90",
+      null
+    ],
+    "emails": [
+      "sekretar@arkc.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 10
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Артемовский РКЦ",
+      "id": "67B14F4D-E1EB-42D4-8F54-1FE69A3CCC45"
+    },
+    "name": "Центр Обслуживания Потребителей г. Артем",
+    "address": {
+      "index": 692760,
+      "region": "Приморский край",
+      "settlement": "г. Артем",
+      "street": "ул. Кирова",
+      "building": "42"
+    },
+    "location": {},
+    "phones": [
+      "42337 4-92-57",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 10
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Артемовский РКЦ",
+      "id": "67B14F4D-E1EB-42D4-8F54-1FE69A3CCC45"
+    },
+    "name": "Абонентский пункт п. Вольно-Надеждинское",
+    "address": {
+      "index": 692481,
+      "region": "Приморский край",
+      "settlement": "п. Вольно-Надеждинское",
+      "street": "ул. Пушкина",
+      "building": "34а"
+    },
+    "location": {},
+    "phones": [
+      "42334 2-00-81",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 10
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Артемовский РКЦ",
+      "id": "67B14F4D-E1EB-42D4-8F54-1FE69A3CCC45"
+    },
+    "name": "Абонентский пункт п. Тавричанка",
+    "address": {
+      "index": 692495,
+      "region": "Приморский край",
+      "settlement": "п. Тавричанка",
+      "street": "ул. Осипенко",
+      "building": "1"
+    },
+    "location": {},
+    "phones": [
+      "42334 2-60-82",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 10
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Артемовский РКЦ",
+      "id": "67B14F4D-E1EB-42D4-8F54-1FE69A3CCC45"
+    },
+    "name": "Абонентский пункт п. Раздольное",
+    "address": {
+      "index": 692488,
+      "region": "Приморский край",
+      "settlement": "п. Раздольное",
+      "street": "ул. Лазо",
+      "building": "261"
+    },
+    "location": {},
+    "phones": [
+      "42334 3-31-66",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 10
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Большекаменское отделение",
+      "id": "304A72CE-558B-46CD-94E4-61F10628E18D"
+    },
+    "name": "Большекаменское отделение",
+    "address": {
+      "index": 692802,
+      "region": "Приморский край",
+      "settlement": "г. Большой Камень",
+      "street": "ул. Лебедева",
+      "building": "7"
+    },
+    "location": {},
+    "phones": [
+      "42335 4-00-97",
+      "42335 4-00-45 ",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "bk_secr@bk.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 20
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Большекаменское отделение",
+      "id": "304A72CE-558B-46CD-94E4-61F10628E18D"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "index": 692880,
+      "region": "Приморский край",
+      "settlement": "г. Фокино",
+      "street": "ул. Усатова",
+      "building": "28"
+    },
+    "location": {},
+    "phones": [
+      "42339 2-40-49",
+      "984-145-5075",
+      "984-145-4906"
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-14:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-14:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-14:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-14:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 20
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Большекаменское отделение",
+      "id": "304A72CE-558B-46CD-94E4-61F10628E18D"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "index": 692890,
+      "region": "Приморский край",
+      "district": "ЗАТО г. Фокино",
+      "settlement": "п. Дунай",
+      "street": "ул. Советская",
+      "building": "2"
+    },
+    "location": {},
+    "phones": [
+      "42339 3-11-17",
+      "914-960-8143",
+      "984-145-4395"
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 20
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Большекаменское отделение",
+      "id": "304A72CE-558B-46CD-94E4-61F10628E18D"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "index": 692890,
+      "region": "Приморский край",
+      "district": "ЗАТО г. Фокино",
+      "settlement": "п. Путятин",
+      "street": "ул. Нагорная",
+      "building": "21"
+    },
+    "location": {},
+    "phones": [
+      "42339 3-11-17",
+      "914-960-8143",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "10:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 20
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Большекаменское отделение",
+      "id": "304A72CE-558B-46CD-94E4-61F10628E18D"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "index": 692824,
+      "region": "Приморский край",
+      "settlement": "п. Новонежино",
+      "street": "ул. Авиаторов",
+      "building": "23"
+    },
+    "location": {},
+    "phones": [
+      "42335 3-33-48",
+      "984-151-1017",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 20
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Большекаменское отделение",
+      "id": "304A72CE-558B-46CD-94E4-61F10628E18D"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "index": 692847,
+      "region": "Приморский край",
+      "settlement": "с. Анисимовка",
+      "street": "ул. Смольная",
+      "building": "4"
+    },
+    "location": {},
+    "phones": [
+      "42335 3-33-48",
+      "984-151-1017",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 20
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Большекаменское отделение",
+      "id": "304A72CE-558B-46CD-94E4-61F10628E18D"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "index": 692821,
+      "region": "Приморский край",
+      "settlement": "с. Романовка",
+      "street": "ул. Ленинская",
+      "building": "56"
+    },
+    "location": {},
+    "phones": [
+      "984-145-5154",
+      "914-970-9026",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 20
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Большекаменское отделение",
+      "id": "304A72CE-558B-46CD-94E4-61F10628E18D"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "index": 692824,
+      "region": "Приморский край",
+      "settlement": "п. Шкотова",
+      "street": "ул. Зальпе",
+      "building": "4а"
+    },
+    "location": {},
+    "phones": [
+      "42335 3-12-14",
+      "914-655-1861",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 20
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Владивосток РКЦ",
+      "id": "D97D274F-488A-4D73-9959-F7B9D02168A7"
+    },
+    "name": "Центр обслуживания потребителей ЦОП",
+    "address": {
+      "region": "Приморский край",
+      "settlement": "г. Владивосток",
+      "street": "ул. Октябрьская",
+      "building": "8"
+    },
+    "location": {},
+    "phones": [
+      "800-333-0-444",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 19
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Владивосток РКЦ",
+      "id": "D97D274F-488A-4D73-9959-F7B9D02168A7"
+    },
+    "name": "Расчетно-контрольный центр",
+    "address": {
+      "region": "Приморский край",
+      "settlement": "г. Владивосток",
+      "street": "ул. Октябрьская",
+      "building": "8"
+    },
+    "location": {},
+    "phones": [
+      "800-333-0-444",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "vrkcdel@prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 19
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Владивосток РКЦ",
+      "id": "D97D274F-488A-4D73-9959-F7B9D02168A7"
+    },
+    "name": "Сервисный центр ",
+    "address": {
+      "region": "Приморский край",
+      "settlement": "г. Владивосток",
+      "street": "ул. Октябрьская",
+      "building": "8"
+    },
+    "location": {},
+    "phones": [
+      "800-333-0-444",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "vrkcdel@prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 19
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Владивосток РКЦ",
+      "id": "D97D274F-488A-4D73-9959-F7B9D02168A7"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "region": "Приморский край",
+      "settlement": "г. Владивосток",
+      "street": "пр-кт 100-летия",
+      "building": "40а"
+    },
+    "location": {},
+    "phones": [
+      "800-333-0-444",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "vrkcdel@prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 19
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Владивосток РКЦ",
+      "id": "D97D274F-488A-4D73-9959-F7B9D02168A7"
+    },
+    "name": "Абонентский пункт",
+    "address": {
+      "region": "Приморский край",
+      "settlement": "г. Владивосток",
+      "street": "ул. Калинина",
+      "building": "45"
+    },
+    "location": {},
+    "phones": [
+      "800-333-0-444",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "vrkcdel@prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 19
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Дальнереченское отделение",
+      "id": "A1E2D3EF-6E7C-408F-8A00-B80BD9D4EA81"
+    },
+    "name": "Центр Обслуживания Потребителей",
+    "address": {
+      "index": 692135,
+      "region": "Приморский край",
+      "settlement": "г. Дальнереченск",
+      "street": "ул. Героев Даманского",
+      "building": "4А"
+    },
+    "location": {},
+    "phones": [
+      "42356 3-30-00",
+      "42356 3-21-91",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 11
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Дальнереченское отделение",
+      "id": "A1E2D3EF-6E7C-408F-8A00-B80BD9D4EA81"
+    },
+    "name": "Дальнереченское отделение",
+    "address": {
+      "index": 692135,
+      "region": "Приморский край",
+      "settlement": "г. Дальнереченск",
+      "street": "ул. Шевченко",
+      "building": "1"
+    },
+    "location": {},
+    "phones": [
+      "42356 3-45-47",
+      "42356 2-87-96 ",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "ps2@dalner.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 11
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Дальнереченское отделение",
+      "id": "A1E2D3EF-6E7C-408F-8A00-B80BD9D4EA81"
+    },
+    "name": "Абонентский пункт Пожарского участка",
+    "address": {
+      "index": 692001,
+      "region": "Приморский край",
+      "settlement": "п. Лучегорск",
+      "street": "ул. Винниченко",
+      "building": "1а"
+    },
+    "location": {},
+    "phones": [
+      "42357 3-76-47",
+      "42357 3-92-60 ",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "ps37@dalner.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 11
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Дальнереченское отделение",
+      "id": "A1E2D3EF-6E7C-408F-8A00-B80BD9D4EA81"
+    },
+    "name": "Абонентский пункт Красноармейского участка",
+    "address": {
+      "index": 692180,
+      "region": "Приморский край",
+      "settlement": "с. Рощино",
+      "street": "ул. Энергетиков",
+      "building": "2"
+    },
+    "location": {},
+    "phones": [
+      "42359 2-38-87",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "ps32@dalner.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 11
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Дальнереченское отделение",
+      "id": "A1E2D3EF-6E7C-408F-8A00-B80BD9D4EA81"
+    },
+    "name": "Абонентский пункт п. Восток",
+    "address": {
+      "index": 692183,
+      "region": "Приморский край",
+      "settlement": "п. Восток",
+      "street": "ул. Набережкая",
+      "building": "10а"
+    },
+    "location": {},
+    "phones": [
+      "42359 2-73-11",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "ps33@dalner.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-16:00",
+        "dinnertime": "10:00-15:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-16:00",
+        "dinnertime": "10:00-15:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-16:00",
+        "dinnertime": "10:00-15:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-16:00",
+        "dinnertime": "10:00-15:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-16:00",
+        "dinnertime": "10:00-15:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 11
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Кавалеровское отделение",
+      "id": "582C5F17-ACF7-4E43-B36E-69905A3B978B"
+    },
+    "name": "Кавалеровское отделение",
+    "address": {
+      "index": 692413,
+      "region": "Приморский край",
+      "settlement": "п. Кавалерово",
+      "street": "ул.Арсеньева",
+      "building": "96"
+    },
+    "location": {},
+    "phones": [
+      "42375 9-14-79",
+      null,
+      null
+    ],
+    "faxes": [
+      "42375 9-27-17 ",
+      null
+    ],
+    "emails": [
+      "sekr@kavaler.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-12:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 13
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Кавалеровское отделение",
+      "id": "582C5F17-ACF7-4E43-B36E-69905A3B978B"
+    },
+    "name": "Абонентский отдел Ольгинского участка",
+    "address": {
+      "index": 692460,
+      "region": "Приморский край",
+      "settlement": "п. Ольга",
+      "street": "ул. Ленина",
+      "building": "5"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      "42376 9-11-94 ",
+      null
+    ],
+    "emails": [
+      "olga@prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-12:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 13
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Кавалеровское отделение",
+      "id": "582C5F17-ACF7-4E43-B36E-69905A3B978B"
+    },
+    "name": "Абонентский отдел Дальнегорского участка",
+    "address": {
+      "index": 692430,
+      "region": "Приморский край",
+      "settlement": "г. Дальнегорск",
+      "street": "ул. Набережкая",
+      "building": "31",
+      "room": 36
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      "42373 2-68-60",
+      null
+    ],
+    "emails": [
+      "dalnegorsk@prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-12:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 13
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Кавалеровское отделение",
+      "id": "582C5F17-ACF7-4E43-B36E-69905A3B978B"
+    },
+    "name": "Абонентский отдел п. Пластун Дальнегорского участка",
+    "address": {
+      "index": 692152,
+      "region": "Приморский край",
+      "settlement": "п. Пластун",
+      "street": "ул. Лермонтова",
+      "building": "14",
+      "room": 41
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      "42374 3-46-18 ",
+      null
+    ],
+    "emails": [
+      "plastun@prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-12:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 13
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Лесозаводское отделение",
+      "id": "D8A27127-2B83-412C-9DBC-98B9B15A338D"
+    },
+    "name": "Лесозаводское отделение",
+    "address": {
+      "index": 692042,
+      "region": "Приморский край",
+      "settlement": "г. Лесозаводск",
+      "street": "ул. Будника",
+      "building": "77"
+    },
+    "location": {},
+    "phones": [
+      "42355 2-34-86",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "psl2@lesozav.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 14
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Лесозаводское отделение",
+      "id": "D8A27127-2B83-412C-9DBC-98B9B15A338D"
+    },
+    "name": "Кировский участок",
+    "address": {
+      "index": 692091,
+      "region": "Приморский край",
+      "settlement": "пгт. Кировский",
+      "street": "ул. Ленинская",
+      "building": "38а"
+    },
+    "location": {},
+    "phones": [
+      "42354 2-21-61",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "kirov2@lesozav.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 14
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Лесозаводское отделение",
+      "id": "D8A27127-2B83-412C-9DBC-98B9B15A338D"
+    },
+    "name": "Участок в п. Горные Ключи",
+    "address": {
+      "index": 692086,
+      "region": "Приморский край",
+      "settlement": "п. Горные Ключи",
+      "street": "ул. Юбилейная",
+      "building": "31",
+      "room": 2
+    },
+    "location": {},
+    "phones": [
+      "42354 2-53-44",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "gkluch2@lesozav.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 14
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Находкинское отделение",
+      "id": "C601CF1C-5DF9-4C2B-A161-F5676A235C87"
+    },
+    "name": "Находкинское отделение",
+    "address": {
+      "index": 692917,
+      "region": "Приморский край",
+      "settlement": "г. Находка",
+      "street": "ул. Верхне-Морская",
+      "building": "6а"
+    },
+    "location": {},
+    "phones": [
+      "4236 62-66-50",
+      null,
+      null
+    ],
+    "faxes": [
+      "4236 69-68-91",
+      "4236 62-66-49"
+    ],
+    "emails": [
+      "sekretar@nakhodka.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 15
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Находкинское отделение",
+      "id": "C601CF1C-5DF9-4C2B-A161-F5676A235C87"
+    },
+    "name": "Центр Обслуживания Потребителей",
+    "address": {
+      "index": 692917,
+      "region": "Приморский край",
+      "settlement": "г. Находка",
+      "street": "ул. Верхне-Морская",
+      "building": "6а"
+    },
+    "location": {},
+    "phones": [
+      "4236 62-66-50",
+      null,
+      null
+    ],
+    "faxes": [
+      "4236 69-68-91",
+      "4236 62-66-49"
+    ],
+    "emails": [
+      "sekretar@nakhodka.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-12:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 15
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Находкинское отделение",
+      "id": "C601CF1C-5DF9-4C2B-A161-F5676A235C87"
+    },
+    "name": "Центр Обслуживания Потребителей",
+    "address": {
+      "index": 692928,
+      "region": "Приморский край",
+      "settlement": "г. Находка",
+      "street": "ул. Постышева",
+      "building": "11"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "sekretar@nakhodka.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 15
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Партизанское отделение",
+      "id": "E62120C4-A734-4CF3-A79D-783072BE0616"
+    },
+    "name": "Партизанское отделение",
+    "address": {
+      "index": 692853,
+      "region": "Приморский край",
+      "settlement": "г. Партизанск",
+      "street": "ул. Коренова",
+      "building": "26"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      "42363 6-20-28 ",
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 16
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Партизанское отделение",
+      "id": "E62120C4-A734-4CF3-A79D-783072BE0616"
+    },
+    "name": "Центр Обслуживания Потребителей",
+    "address": {
+      "index": 692853,
+      "region": "Приморский край",
+      "settlement": "г. Партизанск",
+      "street": "ул. Гоголевская",
+      "building": "8"
+    },
+    "location": {},
+    "phones": [
+      "42363 6-98-15",
+      "42363 6-98-21",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "cop1@partizan.prim.dvec.ru",
+      "cop2@partizan.prim.dvec.ru",
+      "cop3@partizan.prim.dvec.ru"
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 16
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Спасское отделение",
+      "id": "A9F8D507-7BAA-4A3F-BAE7-24E061FC2BD5"
+    },
+    "name": "Спасское отделение",
+    "address": {
+      "index": 692210,
+      "region": "Приморский край",
+      "settlement": "г. Спасск-Дальний",
+      "street": "ул. Борисова",
+      "building": "22"
+    },
+    "location": {},
+    "phones": [
+      "42352 2-07-89",
+      "42352 2-36-41",
+      "42352 2-12-42"
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "sekr@spassk.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 17
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Уссурийское отделение",
+    "address": {
+      "index": 692519,
+      "region": "Приморский край",
+      "settlement": "г. Уссурийск",
+      "street": "ул. Суханова",
+      "building": "55а"
+    },
+    "location": {},
+    "phones": [
+      "4234 32-90-74",
+      "4234 32-59-57",
+      "4234 31-51-47"
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "uss-sekretar@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Центр обслуживания потребителей",
+    "address": {
+      "region": "Приморский край",
+      "settlement": "г. Уссурийск",
+      "street": "ул. Плантационная",
+      "building": "34"
+    },
+    "location": {},
+    "phones": [
+      "4234 26-91-82",
+      "4234 26-92-85",
+      "4234 26-92-56"
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "index": 692240,
+      "region": "Приморский край",
+      "settlement": "с. Черниговка",
+      "street": "ул. Буденного",
+      "building": "3"
+    },
+    "location": {},
+    "phones": [
+      "42351 2-77-16",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "cher-nach@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "index": 692651,
+      "region": "Приморский край",
+      "settlement": "с. Михайловка",
+      "street": "ул. Ленинская",
+      "building": "44"
+    },
+    "location": {},
+    "phones": [
+      "42346 2-48-63",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "mich-oprst3@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "index": 692556,
+      "region": "Приморский край",
+      "settlement": "пгт. Новошахтинский",
+      "street": "ул. Производственноая",
+      "building": "8"
+    },
+    "location": {},
+    "phones": [
+      "42346 2-63-91",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "nov-oprsn2@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-16:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "index": 692260,
+      "region": "Приморский край",
+      "settlement": "с. Хороль",
+      "street": "ул. Луговая",
+      "building": "29"
+    },
+    "location": {},
+    "phones": [
+      "42347 2-37-25",
+      "42347 2-15-74",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "hor-nach@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "index": 692280,
+      "region": "Приморский край",
+      "settlement": "с. Камень-Рыболов",
+      "street": "ул. Кирова",
+      "building": "1"
+    },
+    "location": {},
+    "phones": [
+      "42349 9-94-94",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "krib-oprsn1@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-15:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-15:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "index": 692272,
+      "region": "Приморский край",
+      "settlement": "п. Ярославский",
+      "street": "ул. Матросова",
+      "building": "11",
+      "room": 31
+    },
+    "location": {},
+    "phones": [
+      "42347 2-80-73",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "yar-oprsn2@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "index": 692570,
+      "region": "Приморский край",
+      "settlement": "с. Покровка",
+      "street": "ул. Октябрьская",
+      "building": "23"
+    },
+    "location": {},
+    "phones": [
+      "42344 5-77-13",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "pokr-nach@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "index": 692557,
+      "region": "Приморский край",
+      "settlement": "п. Липовцы",
+      "street": "ул. Угольная",
+      "building": "25",
+      "room": 2
+    },
+    "location": {},
+    "phones": [
+      "42344 5-67-77",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "12:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "region": "Приморский край",
+      "settlement": "с. Сергеевка",
+      "street": "ДОС",
+      "building": "280",
+      "room": 63
+    },
+    "location": {},
+    "phones": [
+      "914-660-20-19",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "pokr-nach@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "13:00-14:30"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Уссурийское отделение",
+      "id": "8A02AE88-AC70-4D5D-A761-2F93F6E06D0B"
+    },
+    "name": "Пункт приема потребителей",
+    "address": {
+      "region": "Приморский край",
+      "settlement": "п. Пограничный",
+      "street": "ул. Кирова",
+      "building": "7"
+    },
+    "location": {},
+    "phones": [
+      "42345 21-0-94",
+      "42345 21-0-02",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "pokr-nach@ussur.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 18
+    }
+  },
+  {
+    "branch": {
+      "name": "Дальэнергосбыт",
+      "id": "7b4ed642-1880-4dce-bdc3-cf9baeb34704"
+    },
+    "office": {
+      "name": "Хасанское отделение",
+      "id": "E9065843-21B9-41A3-8FDF-732BB21BFEE1"
+    },
+    "name": "Хасанское отделение",
+    "address": {
+      "index": 692701,
+      "region": "Приморский край",
+      "settlement": "п. Славянка",
+      "street": "ул. Свободная",
+      "building": "3"
+    },
+    "location": {},
+    "phones": [
+      "42331 4-80-61 ",
+      "42331 4-63-51",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      "sekr@xasan.prim.dvec.ru",
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 12
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Амурское отделение",
+      "id": "693EE5C6-3D30-4200-ABC7-F544E1FFDB50"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 682460,
+      "region": "Хабаровский край",
+      "settlement": "г. Амурск",
+      "street": "ул. Строителей",
+      "building": "26"
+    },
+    "location": {},
+    "phones": [
+      "42142 2-07-35",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 27
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Амурское отделение",
+      "id": "693EE5C6-3D30-4200-ABC7-F544E1FFDB50"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "п. Эльбан"
+    },
+    "location": {},
+    "phones": [
+      "42142 4-11-69",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 27
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Бикинское отделение",
+      "id": "A7D4229B-A9C7-4A48-A6C0-33F9A605D6EF"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 682980,
+      "region": "Хабаровский край",
+      "settlement": "г. Бикин",
+      "street": "ул. Бонивура",
+      "building": "96"
+    },
+    "location": {},
+    "phones": [
+      "42155 2-16-09",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 22
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Ванинское отделение",
+      "id": "6BBCC0B6-F2E2-4A3D-BBE6-7B0B1688D515"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 682880,
+      "region": "Хабаровский край",
+      "settlement": "п. Ванино",
+      "street": "ул. 5-ая Линия",
+      "building": "1"
+    },
+    "location": {},
+    "phones": [
+      "42137 7-22-04",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 29
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Ванинское отделение",
+      "id": "6BBCC0B6-F2E2-4A3D-BBE6-7B0B1688D515"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "п. Ванино",
+      "street": "ул. 5-ая Линия",
+      "building": "1"
+    },
+    "location": {},
+    "phones": [
+      "42137 7-22-04",
+      "42137 7-65-76",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 29
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Вяземское отделение",
+      "id": "63701C1E-D0DB-447E-86B7-0752478F2380"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Вяземский",
+      "street": "ул. Коммунистическая",
+      "building": "10а"
+    },
+    "location": {},
+    "phones": [
+      "42154 3-61-01",
+      "42153 3-19-67",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 23
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Вяземское отделение",
+      "id": "63701C1E-D0DB-447E-86B7-0752478F2380"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Вяземский",
+      "street": "ул. Коммунистическая",
+      "building": "10а"
+    },
+    "location": {},
+    "phones": [
+      "42153 3-19-67",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 23
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Комсомольское отделение",
+      "id": "5826876B-F29E-4894-8126-AD1FFBFC336B"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 681000,
+      "region": "Хабаровский край",
+      "settlement": "г. Комсомольск-на-Амуре",
+      "street": "ул. Аллея Труда",
+      "building": "16"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 25
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Комсомольское отделение",
+      "id": "5826876B-F29E-4894-8126-AD1FFBFC336B"
+    },
+    "name": "Расчетный центр 1",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Комсомольск-на-Амуре",
+      "street": "ул. Аллея Труда",
+      "building": "16"
+    },
+    "location": {},
+    "phones": [
+      "4217 54-94-81",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 25
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Комсомольское отделение",
+      "id": "5826876B-F29E-4894-8126-AD1FFBFC336B"
+    },
+    "name": "Расчетный центр 2",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Комсомольск-на-Амуре",
+      "street": "ул. Аллея Труда",
+      "building": "16а"
+    },
+    "location": {},
+    "phones": [
+      "4217 54-14-96",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 25
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Комсомольское отделение",
+      "id": "5826876B-F29E-4894-8126-AD1FFBFC336B"
+    },
+    "name": "Расчетный центр 3",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Комсомольск-на-Амуре",
+      "street": "ул. Аллея Труда",
+      "building": "16"
+    },
+    "location": {},
+    "phones": [
+      "4217 57-33-90",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 25
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Нанайское отделение",
+      "id": "C2E3BFA9-16F4-4C97-BD44-DDC6CBC7A7E0"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "с. Троицкое",
+      "street": "ул. Лазо",
+      "building": "10"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 30
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Нанайское отделение",
+      "id": "C2E3BFA9-16F4-4C97-BD44-DDC6CBC7A7E0"
+    },
+    "name": "РКЦ",
+    "address": {
+      "region": "Хабаровский край"
+    },
+    "location": {},
+    "phones": [
+      "42156 4-17-65",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 30
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Николаевское отделение",
+      "id": "37278714-4C22-42B3-8EE7-93CA2ACB87BC"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 682469,
+      "region": "Хабаровский край",
+      "settlement": "г. Николаевск-на-Амуре",
+      "street": "ул. Невельского",
+      "building": "24"
+    },
+    "location": {},
+    "phones": [
+      "42135 2-33-70",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 32
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Переяславское отделение",
+      "id": "2215C41A-6994-4E66-89D0-47D47BBCEC50"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 682920,
+      "region": "Хабаровский край",
+      "settlement": "п. Переяславка",
+      "street": "ул. Постышева",
+      "building": "9"
+    },
+    "location": {},
+    "phones": [
+      "42154 2-10-89",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "12:30-13:30"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "12:30-13:30"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "12:30-13:30"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "12:30-13:30"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "12:30-13:30"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:30-15:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 24
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Советско-гаванское отделение",
+      "id": "F5829472-D9E2-4848-A2DD-1B6A3019ED42"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 682880,
+      "region": "Хабаровский край",
+      "settlement": "г. Советская Гавань",
+      "street": "ул. Комсомольская",
+      "building": "31"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 26
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Советско-гаванское отделение",
+      "id": "F5829472-D9E2-4848-A2DD-1B6A3019ED42"
+    },
+    "name": "РКЦ",
+    "address": {
+      "region": "Хабаровский край"
+    },
+    "location": {},
+    "phones": [
+      "42138 4-70-68",
+      "42138 4-71-37",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 26
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Советско-гаванское отделение",
+      "id": "F5829472-D9E2-4848-A2DD-1B6A3019ED42"
+    },
+    "name": "РКЦ, рп. Майский",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "рп. Майский"
+    },
+    "location": {},
+    "phones": [
+      "42138 4-84-54",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 26
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Солнечное отделение",
+      "id": "82037C7D-210B-47A6-898F-3647888BFA9B"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 682711,
+      "region": "Хабаровский край",
+      "settlement": "п. Солнечный",
+      "street": "ул. Строителей",
+      "building": "9"
+    },
+    "location": {},
+    "phones": [
+      "42146 2-20-78",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 28
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Солнечное отделение",
+      "id": "82037C7D-210B-47A6-898F-3647888BFA9B"
+    },
+    "name": "РКЦ, п. Березовый",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "п. Березовый"
+    },
+    "location": {},
+    "phones": [
+      "42146 5-55-66",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 28
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Солнечное отделение",
+      "id": "82037C7D-210B-47A6-898F-3647888BFA9B"
+    },
+    "name": "РКЦ, п. Горин",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "п. Горин"
+    },
+    "location": {},
+    "phones": [
+      "42146 6-27-03",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 28
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Ургальское отделение",
+      "id": "18B8A46D-DF6A-4620-B514-D277DB4B8C58"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 682030,
+      "region": "Хабаровский край",
+      "settlement": "п. Чегдомын",
+      "street": "ул. Центральная",
+      "building": "44"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 31
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Ургальское отделение",
+      "id": "18B8A46D-DF6A-4620-B514-D277DB4B8C58"
+    },
+    "name": "РКЦ, п. Чегдомын",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "п. Чегдомын"
+    },
+    "location": {},
+    "phones": [
+      "42149 5-31-58",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 31
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Ургальское отделение",
+      "id": "18B8A46D-DF6A-4620-B514-D277DB4B8C58"
+    },
+    "name": "РКЦ, рп. Новый Ургал",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "рп. Новый Ургал"
+    },
+    "location": {},
+    "phones": [
+      "42149 4-43-95",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 31
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "Отделение Хабаровскэнергосбыта",
+    "address": {
+      "index": 680030,
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "ул. Слободская",
+      "building": "12"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:30-17:30",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "ул. Ленина",
+      "building": "43а"
+    },
+    "location": {},
+    "phones": [
+      "4212 21-59-29",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "ул. Тихоокеанская",
+      "building": "197"
+    },
+    "location": {},
+    "phones": [
+      "4212 74-96-15",
+      "4212 73-37-06",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "10:00-19:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "РКЦ №1",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "ул. Ленина",
+      "building": "43а"
+    },
+    "location": {},
+    "phones": [
+      "4212 29-43-86",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "РКЦ №2",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "пр. Трамвайный",
+      "building": "5"
+    },
+    "location": {},
+    "phones": [
+      "4212 30-73-33",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "РКЦ №3",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "ул. Тихоокеанская",
+      "building": "197"
+    },
+    "location": {},
+    "phones": [
+      "4212 74-96-15",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "РКЦ №4",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "пр. Трамвайный",
+      "building": "5"
+    },
+    "location": {},
+    "phones": [
+      "4212 75-97-80",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "РКЦ №5",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "ул. Ленина",
+      "building": "43а"
+    },
+    "location": {},
+    "phones": [
+      "4212 29-42-02",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Хабаровскэнергосбыт",
+      "id": "1342c8a0-f29f-43b0-8ea3-332bd3cd1c90"
+    },
+    "office": {
+      "name": "Хабаровское отделение",
+      "id": "5993AB70-9A4F-4AB9-83FD-BE44760A40A6"
+    },
+    "name": "РКЦ №6",
+    "address": {
+      "region": "Хабаровский край",
+      "settlement": "г. Хабаровск",
+      "street": "ул. Санитарная",
+      "building": "16"
+    },
+    "location": {},
+    "phones": [
+      "4212 74-62-42",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 21
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Белогорское отделение",
+      "id": "C5F682C4-FB1F-49AE-900B-05ED6355E9F2"
+    },
+    "name": "г. Белогорск",
+    "address": {
+      "index": 676850,
+      "region": "Амурская область",
+      "settlement": "г. Белогорск",
+      "street": "ул. Денисенко",
+      "building": "2"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 1
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Белогорское отделение",
+      "id": "C5F682C4-FB1F-49AE-900B-05ED6355E9F2"
+    },
+    "name": "г. Белогорск",
+    "address": {
+      "index": 676850,
+      "region": "Амурская область",
+      "settlement": "г. Белогорск",
+      "street": "ул. Набережная",
+      "building": "95"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 1
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Белогорское отделение",
+      "id": "C5F682C4-FB1F-49AE-900B-05ED6355E9F2"
+    },
+    "name": "Октябрьский участок",
+    "address": {
+      "index": 676630,
+      "region": "Амурская область",
+      "district": "Октябрьский район",
+      "settlement": "с. Екатеринославка",
+      "street": "ул. Ленина",
+      "building": "59"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 1
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Белогорское отделение",
+      "id": "C5F682C4-FB1F-49AE-900B-05ED6355E9F2"
+    },
+    "name": "Ромненский участок",
+    "address": {
+      "index": 676620,
+      "region": "Амурская область",
+      "settlement": "с. Ромны",
+      "street": "ул. Советская",
+      "building": "100"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 1
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Благовещенский РКЦ",
+      "id": "96665C93-8CD8-4CF7-9FE3-DECCC8DE6BD3"
+    },
+    "name": "Пунтк обслуживания",
+    "address": {
+      "region": "Амурская область",
+      "settlement": "г. Благовещенск",
+      "street": "ул. 50-лет Октября",
+      "building": "65/1"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-15:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 35
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Благовещенский РКЦ",
+      "id": "96665C93-8CD8-4CF7-9FE3-DECCC8DE6BD3"
+    },
+    "name": "Пунтк обслуживания",
+    "address": {
+      "region": "Амурская область",
+      "settlement": "г. Благовещенск",
+      "street": "ул. Калинина",
+      "building": "142/4"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 35
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Благовещенский РКЦ",
+      "id": "96665C93-8CD8-4CF7-9FE3-DECCC8DE6BD3"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "Амурская область",
+      "settlement": "г. Благовещенск",
+      "street": "ул. 50-лет Октября",
+      "building": "65/1"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:15-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "09:00-15:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 35
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Благовещенский РКЦ",
+      "id": "96665C93-8CD8-4CF7-9FE3-DECCC8DE6BD3"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "Амурская область",
+      "settlement": "г. Благовещенск",
+      "street": "ул. Калинина",
+      "building": "142/4"
+    },
+    "location": {},
+    "phones": [
+      "4162 390-622",
+      "4162 390-624",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 35
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Благовещенское отделение",
+      "id": "54B036B0-080A-4A2D-9936-8A01353896A8"
+    },
+    "name": "Тамбовский участок",
+    "address": {
+      "index": 676950,
+      "region": "Амурская область",
+      "settlement": "с. Тамбовка",
+      "street": "ул. 50 Октября",
+      "building": "13"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 2
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Благовещенское отделение",
+      "id": "54B036B0-080A-4A2D-9936-8A01353896A8"
+    },
+    "name": "Ивановский участок",
+    "address": {
+      "index": 676930,
+      "region": "Амурская область",
+      "settlement": "с. Ивановка",
+      "street": "ул. Ленина",
+      "building": "152"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 2
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Благовещенское отделение",
+      "id": "54B036B0-080A-4A2D-9936-8A01353896A8"
+    },
+    "name": "Константиновский участок",
+    "address": {
+      "index": 676980,
+      "region": "Амурская область",
+      "settlement": "с. Константиновка",
+      "street": "ул. Комсомольская",
+      "building": "44"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 2
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Зейское отделение",
+      "id": "2DE1D651-4037-41A3-9842-3DB2A0EE7973"
+    },
+    "name": "г. Зея",
+    "address": {
+      "index": 676243,
+      "region": "Амурская область",
+      "settlement": "г. Зея",
+      "street": "ул. Набережная",
+      "building": "35/5"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 3
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Зейское отделение",
+      "id": "2DE1D651-4037-41A3-9842-3DB2A0EE7973"
+    },
+    "name": "Магдагачинский участок",
+    "address": {
+      "index": 676120,
+      "region": "Амурская область",
+      "settlement": "п. Магдагачи",
+      "street": "ул. Карла Маркса",
+      "building": "23"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 3
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Зейское отделение",
+      "id": "2DE1D651-4037-41A3-9842-3DB2A0EE7973"
+    },
+    "name": "Магдагачинский участок",
+    "address": {
+      "index": 676120,
+      "region": "Амурская область",
+      "settlement": "п. Магдагачи",
+      "street": "ул. Ленина",
+      "building": "25а"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 3
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Райчихинское отделение",
+      "id": "AA589886-D2EA-406B-A594-1888854EDBE6"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "Амурская область",
+      "settlement": "г. Райчихинск",
+      "street": "ул. Пономарева",
+      "building": "99"
+    },
+    "location": {},
+    "phones": [
+      "41-647 217 -00",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 4
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Райчихинское отделение",
+      "id": "AA589886-D2EA-406B-A594-1888854EDBE6"
+    },
+    "name": "Архаринский участок",
+    "address": {
+      "index": 676740,
+      "region": "Амурская область",
+      "district": "Архаринский район",
+      "settlement": "п. Архара",
+      "street": "ул. Первомайская",
+      "building": "98"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 4
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Райчихинское отделение",
+      "id": "AA589886-D2EA-406B-A594-1888854EDBE6"
+    },
+    "name": "Бурейский участок",
+    "address": {
+      "index": 676700,
+      "region": "Амурская область",
+      "district": "Бурейский район",
+      "settlement": "с. Новобурейск",
+      "street": "ул. Советская",
+      "building": "46"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 4
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Райчихинское отделение",
+      "id": "AA589886-D2EA-406B-A594-1888854EDBE6"
+    },
+    "name": "п. Талакан",
+    "address": {
+      "index": 676704,
+      "region": "Амурская область",
+      "settlement": "п. Талакан",
+      "building": "119",
+      "room": 33
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 4
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Райчихинское отделение",
+      "id": "AA589886-D2EA-406B-A594-1888854EDBE6"
+    },
+    "name": "п. Прогресс",
+    "address": {
+      "index": 676790,
+      "region": "Амурская область",
+      "settlement": "п. Прогресс",
+      "street": "ул. Ленинградская",
+      "building": "50"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 4
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Райчихинское отделение",
+      "id": "AA589886-D2EA-406B-A594-1888854EDBE6"
+    },
+    "name": "г. Райчихинск",
+    "address": {
+      "index": 676770,
+      "region": "Амурская область",
+      "settlement": "г. Райчихинск",
+      "street": "ул. Транспортная",
+      "building": "14"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 4
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Райчихинское отделение",
+      "id": "AA589886-D2EA-406B-A594-1888854EDBE6"
+    },
+    "name": "Завитинский участок",
+    "address": {
+      "index": 676870,
+      "region": "Амурская область",
+      "settlement": "г. Завитинск",
+      "street": "ул. Красноармейская",
+      "building": "46"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 4
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Райчихинское отделение",
+      "id": "AA589886-D2EA-406B-A594-1888854EDBE6"
+    },
+    "name": "Михайловский участок",
+    "address": {
+      "index": 676680,
+      "region": "Амурская область",
+      "district": "Михайловский район",
+      "settlement": "с. Поярково",
+      "street": "ул. Ленина",
+      "building": "91"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 4
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Свободненское отделение",
+      "id": "45E96C50-86B0-4C1F-AC52-A730AFAE7A4D"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "Амурская область",
+      "settlement": "г. Свободный",
+      "street": "ул. Шатковского",
+      "building": "84"
+    },
+    "location": {},
+    "phones": [
+      "41-643 360-30",
+      "41-643 360-31",
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 5
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Свободненское отделение",
+      "id": "45E96C50-86B0-4C1F-AC52-A730AFAE7A4D"
+    },
+    "name": "Мазановский участок",
+    "address": {
+      "index": 676530,
+      "region": "Амурская область",
+      "district": "Мазановский район",
+      "settlement": "п. Новокиевский Увал",
+      "street": "ул. Советская",
+      "building": "68"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 5
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Свободненское отделение",
+      "id": "45E96C50-86B0-4C1F-AC52-A730AFAE7A4D"
+    },
+    "name": "ЗАТО Углегорск",
+    "address": {
+      "index": 676470,
+      "region": "Амурская область",
+      "district": "Свободненский район",
+      "settlement": "г. Углегорск",
+      "street": "ул. Победы",
+      "building": "26"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 5
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Свободненское отделение",
+      "id": "45E96C50-86B0-4C1F-AC52-A730AFAE7A4D"
+    },
+    "name": "Серышевский участок",
+    "address": {
+      "index": 676355,
+      "region": "Амурская область",
+      "settlement": "п. Серышево",
+      "street": "ул. Литвиненко",
+      "building": "13"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 5
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Свободненское отделение",
+      "id": "45E96C50-86B0-4C1F-AC52-A730AFAE7A4D"
+    },
+    "name": " Февральский участок",
+    "address": {
+      "index": 676572,
+      "region": "Амурская область",
+      "settlement": "п. Февральск",
+      "street": "ул. Саянская",
+      "building": "4Б",
+      "room": 1
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 5
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Сковородинское отделение",
+      "id": "D77E432E-01C0-4033-8E80-12E85CD17F1B"
+    },
+    "name": "г. Сковородино",
+    "address": {
+      "index": 676014,
+      "region": "Амурская область",
+      "settlement": "г. Сковородино",
+      "street": "ул. Победы",
+      "building": "4"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 8
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Сковородинское отделение",
+      "id": "D77E432E-01C0-4033-8E80-12E85CD17F1B"
+    },
+    "name": "п. Ерофей Павлович",
+    "address": {
+      "index": 676000,
+      "region": "Амурская область",
+      "settlement": "п. Ерофей Павлович",
+      "street": "ул. Партизанская",
+      "building": "26а"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 8
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Тындинское отделение",
+      "id": "FB634FDD-60F3-44C1-ABB5-4E73F1BDE5CD"
+    },
+    "name": "г. Тында",
+    "address": {
+      "index": 676282,
+      "region": "Амурская область",
+      "settlement": "г. Тында",
+      "street": "ул. Советская",
+      "building": "53"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 6
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Тындинское отделение",
+      "id": "FB634FDD-60F3-44C1-ABB5-4E73F1BDE5CD"
+    },
+    "name": "г. Тында",
+    "address": {
+      "index": 676282,
+      "region": "Амурская область",
+      "settlement": "г. Тында",
+      "street": "ул. Красная Пресня",
+      "building": "57",
+      "room": 147
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 6
+    }
+  },
+  {
+    "branch": {
+      "name": "Амурэнергосбыт",
+      "id": "96d7850f-8554-4b3c-9b0d-39e9b8ff2022"
+    },
+    "office": {
+      "name": "Шимановское отделение",
+      "id": "62193FBE-E2C9-4699-920C-4ED80EE3BF5F"
+    },
+    "name": "г. Шимановск",
+    "address": {
+      "index": 676307,
+      "region": "Амурская область",
+      "settlement": "г. Шимановск",
+      "street": "ул. Октябрьская",
+      "building": "19"
+    },
+    "location": {},
+    "phones": [
+      null,
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 7
+    }
+  },
+  {
+    "branch": {
+      "name": "Энергосбыт ЕАО",
+      "id": "b785b4e3-27d7-4c05-bb0d-5b374c4a8609"
+    },
+    "office": {
+      "name": "Энергосбыт ЕАО",
+      "id": "AAE89798-DD99-4835-B0CA-0D55577DE7A5"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "ЕАО",
+      "settlement": "г. Облучье",
+      "street": "ул. Садовая",
+      "building": "1"
+    },
+    "location": {},
+    "phones": [
+      "4266 45-5-64",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "09:00-18:00",
+        "dinnertime": "13:00-14:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 33
+    }
+  },
+  {
+    "branch": {
+      "name": "Энергосбыт ЕАО",
+      "id": "b785b4e3-27d7-4c05-bb0d-5b374c4a8609"
+    },
+    "office": {
+      "name": "Энергосбыт ЕАО",
+      "id": "AAE89798-DD99-4835-B0CA-0D55577DE7A5"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "ЕАО",
+      "settlement": "п. Смидович",
+      "street": "ул. 30 лет Октября",
+      "building": "11",
+      "room": 1
+    },
+    "location": {},
+    "phones": [
+      "42632 22-7-28",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 33
+    }
+  },
+  {
+    "branch": {
+      "name": "Энергосбыт ЕАО",
+      "id": "b785b4e3-27d7-4c05-bb0d-5b374c4a8609"
+    },
+    "office": {
+      "name": "Энергосбыт ЕАО",
+      "id": "AAE89798-DD99-4835-B0CA-0D55577DE7A5"
+    },
+    "name": "Центр обслуживания клиентов",
+    "address": {
+      "region": "ЕАО",
+      "settlement": "с. Ленинское ",
+      "street": "ул. Ленина",
+      "building": "1"
+    },
+    "location": {},
+    "phones": [
+      "42663 2-14-82",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 33
+    }
+  },
+  {
+    "branch": {
+      "name": "Энергосбыт ЕАО",
+      "id": "b785b4e3-27d7-4c05-bb0d-5b374c4a8609"
+    },
+    "office": {
+      "name": "Энергосбыт ЕАО",
+      "id": "AAE89798-DD99-4835-B0CA-0D55577DE7A5"
+    },
+    "name": "Офис обслуживания клиентов",
+    "address": {
+      "region": "ЕАО",
+      "settlement": "г. Биробиджан",
+      "street": "пр. 60-летия СССР",
+      "building": "22а"
+    },
+    "location": {},
+    "phones": [
+      "42222 40-9-04",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "08:00-18:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 33
+    }
+  },
+  {
+    "branch": {
+      "name": "Энергосбыт ЕАО",
+      "id": "b785b4e3-27d7-4c05-bb0d-5b374c4a8609"
+    },
+    "office": {
+      "name": "Энергосбыт ЕАО",
+      "id": "AAE89798-DD99-4835-B0CA-0D55577DE7A5"
+    },
+    "name": "Офис обслуживания клиентов",
+    "address": {
+      "region": "ЕАО",
+      "settlement": "п. Николаевка ",
+      "street": "ул. им. Лазо",
+      "building": "15"
+    },
+    "location": {},
+    "phones": [
+      "42632 21-3-99",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-13:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 33
+    }
+  },
+  {
+    "branch": {
+      "name": "Энергосбыт ЕАО",
+      "id": "b785b4e3-27d7-4c05-bb0d-5b374c4a8609"
+    },
+    "office": {
+      "name": "Энергосбыт ЕАО",
+      "id": "AAE89798-DD99-4835-B0CA-0D55577DE7A5"
+    },
+    "name": "Офис обслуживания клиентов",
+    "address": {
+      "region": "ЕАО",
+      "settlement": "п. Приамурский",
+      "street": "ул. Островского",
+      "building": "16"
+    },
+    "location": {},
+    "phones": [
+      "42632 24-6-72",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "tue",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "wed",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "thu",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 33
+    }
+  },
+  {
+    "branch": {
+      "name": "Энергосбыт ЕАО",
+      "id": "b785b4e3-27d7-4c05-bb0d-5b374c4a8609"
+    },
+    "office": {
+      "name": "Энергосбыт ЕАО",
+      "id": "AAE89798-DD99-4835-B0CA-0D55577DE7A5"
+    },
+    "name": "Офис обслуживания клиентов",
+    "address": {
+      "region": "ЕАО",
+      "settlement": "с. Амурзет",
+      "street": "ул. Крупской",
+      "building": "24"
+    },
+    "location": {},
+    "phones": [
+      "42665 22-0-10",
+      null,
+      null
+    ],
+    "faxes": [
+      null,
+      null
+    ],
+    "emails": [
+      null,
+      null,
+      null
+    ],
+    "schedule": [
+      {
+        "name": "mon",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "tue",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "wed",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "thu",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "fri",
+        "worktime": "08:00-17:00",
+        "dinnertime": "12:00-13:00"
+      },
+      {
+        "name": "sat",
+        "worktime": "-",
+        "dinnertime": "-"
+      },
+      {
+        "name": "sun",
+        "worktime": "-",
+        "dinnertime": "-"
+      }
+    ],
+    "payment": {
+      "chronopayid": 33
+    }
+  }
+]
