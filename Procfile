@@ -1,0 +1,1 @@
+web: java -jar target/Dvec_Mobile_Server-0.0.1-SNAPSHOT.jar

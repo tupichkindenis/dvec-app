@@ -14,7 +14,6 @@ import java.util.*;
  */
 @Entity
 @Table(name = "STATION")
-@JsonInclude(JsonInclude.Include.NON_NULL)
 public class Station extends AbstractEntity {
 
     @ManyToOne(optional = false)

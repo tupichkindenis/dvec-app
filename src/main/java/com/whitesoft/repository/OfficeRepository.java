@@ -13,5 +13,6 @@ import java.util.UUID;
  * Created by tupichkindenis on 21.09.16.
  */
 @Component
+@RepositoryRestResource
 public interface OfficeRepository extends PagingAndSortingRepository<Office, UUID> {}
 

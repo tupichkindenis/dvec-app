@@ -15,9 +15,9 @@ import java.util.UUID;
  * Created by tupichkindenis on 21.09.16.
  */
 @Component
+@RepositoryRestResource
 public interface BranchRepository extends PagingAndSortingRepository<Branch, UUID> {
 
-    @Cacheable(value="branchCache", key="#name")
     List<Branch> findByName(@Param("name") String name);
 
 }
