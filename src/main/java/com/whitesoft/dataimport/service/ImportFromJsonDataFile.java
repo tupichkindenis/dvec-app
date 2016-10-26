@@ -18,8 +18,7 @@ import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Service;
 
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.lang.reflect.Type;
 import java.util.Collection;
 import java.util.List;
@@ -49,16 +48,17 @@ public class ImportFromJsonDataFile implements DataImportService {
 
         Gson gson = new Gson();
 
-        Type collectionType = new TypeToken<Collection<StationObject>>(){}.getType();
-        Resource resource = new ClassPathResource("stations.json");
+        ClassLoader cl = this.getClass().getClassLoader();
+
+        InputStream inputStream = cl.getResourceAsStream("stations.json");
 
         Collection<StationObject> stations = null;
-        try {
-            stations = gson.fromJson(new FileReader(resource.getFile()), collectionType);
-        } catch (IOException e) {
-            e.printStackTrace();
-            return;
-        }
+
+        Type collectionType = new TypeToken<Collection<StationObject>>(){}.getType();
+
+        BufferedReader reader =
+                new BufferedReader(new InputStreamReader(inputStream));
+        stations = gson.fromJson(reader, collectionType);
 
         Map<BranchObject,List<StationObject>> byBranch = stations.stream().collect(Collectors.groupingBy(StationObject::getBranch));
 
