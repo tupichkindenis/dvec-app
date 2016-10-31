@@ -106,7 +106,7 @@ public class ImportFromJsonDataFile implements DataImportService {
                                     stationObject.getAddress().getRoom()),
                             new GeoLocation(
                                     stationObject.getLocation().getLatitude(),
-                                    stationObject.getLocation().getLatitude()
+                                    stationObject.getLocation().getLongitude()
                             ));
 
                     // Инициализируем информацию о платежной системе
@@ -124,17 +124,25 @@ public class ImportFromJsonDataFile implements DataImportService {
                                     new Workday(Day.valueOf(d.getName().toUpperCase()), d.getWorktime(), d.getDinnertime()) ) );
 
                     // Инициализируем телефоны
-                    stationObject.getPhones().forEach( p ->
+                    stationObject.getPhones()
+                            .stream()
+                            .filter(p->!"-".equals(p))
+                            .collect(Collectors.toList())
+                            .forEach( p ->
                         stationEntity.getPhones().add( new PhoneNumber(p) ) );
 
                     // Инициализируем факсы
-                    stationObject.getFaxes().forEach( f ->
+                    stationObject.getFaxes()
+                            .stream()
+                            .filter(p->!"-".equals(p))
+                            .collect(Collectors.toList())
+                            .forEach( f ->
                         stationEntity.getFaxes().add( new FaxNumber(f)));
 
                     // Инициализируем адреса почтовые
                     stationObject.getEmails()
                             .stream()
-                            .filter(p -> p!=null)
+                            .filter(p -> p != null)
                             .collect(Collectors.toList())
                             .forEach( e ->
                                 stationEntity.getEmails().add( new EmailAddress(e) ) );
