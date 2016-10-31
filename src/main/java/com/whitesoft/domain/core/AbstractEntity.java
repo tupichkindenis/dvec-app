@@ -17,10 +17,15 @@ public class AbstractEntity {
 
     @Id
     @Type(type = "uuid-char")
-    @GeneratedValue(generator = "system-uuid")
-    @GenericGenerator(name = "system-uuid", strategy = "uuid2")
     @Column(name = "ID", unique = true, nullable = false, insertable = true, updatable = false, length = 36, precision = 0)
-    private UUID id;
+    private UUID id = UUID.randomUUID();
+
+    public AbstractEntity(){}
+
+
+    public AbstractEntity(UUID id){
+        this.id=id;
+    }
 
     /**
      *

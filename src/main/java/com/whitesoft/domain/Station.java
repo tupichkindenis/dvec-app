@@ -56,7 +56,12 @@ public class Station extends AbstractEntity {
         joinColumns = @JoinColumn(name = "STATION_ID") )
     private List<PaymentSystem> paymentSystems = new ArrayList<>();
 
+    private Station(){}
+
     public Station(String name, Office office, LegalAddress legalAddress, GeoLocation geoLocation) {
+
+        super(UUID.randomUUID());
+
         Assert.notNull(name);
         Assert.hasLength(name);
         Assert.notNull(office);
@@ -66,10 +71,6 @@ public class Station extends AbstractEntity {
         this.setOffice(office);
         this.setLegalAddress(legalAddress);
         this.setGeolocation(geoLocation);
-    }
-
-    protected Station() {
-
     }
 
     public Office getOffice() {

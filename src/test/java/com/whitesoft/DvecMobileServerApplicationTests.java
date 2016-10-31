@@ -42,11 +42,11 @@ public class DvecMobileServerApplicationTests {
 	public void contextLoads() {
 
 		// Add branch
-		Branch branch = new Branch("my branch");
+		Branch branch = new Branch(UUID.randomUUID(), "my branch");
 		branchRepository.save(branch);
 
 		// Add office
-		Office office = new Office("my office", branch);
+		Office office = new Office(UUID.randomUUID(), "my office", branch);
 		officeRepository.save(office);
 
 		// Add Station
@@ -61,64 +61,5 @@ public class DvecMobileServerApplicationTests {
 		assertThat(branchRepository.findByName("my branch").get(0).getOffices().size()).isEqualTo(1);
 		assertThat(officeRepository.count()).isEqualTo(1);
 		assertThat(stationRepository.count()).isEqualTo(1);
-	}
-
-	@Test
-	public void gsonConversation() throws IOException {
-		Gson gson = new Gson();
-
-		Type collectionType = new TypeToken<Collection<StationObject>>(){}.getType();
-		Resource resource = new ClassPathResource("stations.json");
-		Collection<StationObject> stations = gson.fromJson(new FileReader(resource.getFile()), collectionType);
-
-		Map<BranchObject,List<StationObject>> byBranch = stations.stream().collect(Collectors.groupingBy(StationObject::getBranch));
-
-
-		System.out.println("");
-		// Необходимо заполнить репозиторий филиалов (Branches)
-		//
-		byBranch.forEach((k,v)->{
-			// k - филиал
-			// v - список отделений данного филиала
-			System.out.println("Branch :" + k.getName() + ", offices amount :" + v.size() );
-
-			// create branch entity
-			Branch branchEntity = new Branch(k.getName());
-			branchRepository.save(branchEntity);
-
-			Map<OfficeObject,List<StationObject>> byOffice =
-					v.stream().filter(p->k.equals(p.getBranch())).collect(Collectors.groupingBy(StationObject::getOffice));
-
-			byOffice.forEach((ok,ov)->{
-				// ok - отделение
-				// ov - список станций данного отделения
-				System.out.println(" - office :" + ok.getName() + ", stations amount :" + ov.size() );
-
-				Office officeEntity = new Office(ok.getName(),branchEntity);
-				officeRepository.save(officeEntity);
-
-				ov.forEach(stationObject -> {
-					System.out.println(" - - station :" + stationObject.getName() );
-
-					Station stationEntity = new Station(
-							stationObject.getName(),
-							officeEntity,
-							new LegalAddress(
-									stationObject.getAddress().getIndex(),
-									stationObject.getAddress().getRegion(),
-									stationObject.getAddress().getDistrict(),
-									stationObject.getAddress().getSettlement(),
-									stationObject.getAddress().getStreet(),
-									stationObject.getAddress().getBuilding(),
-									stationObject.getAddress().getRoom()),
-							new GeoLocation(
-									stationObject.getLocation().getLatitude(),
-									stationObject.getLocation().getLatitude()
-							));
-					stationRepository.save(stationEntity);
-				});
-			});
-		});
-		System.out.println(" - count of records - " + stationRepository.count());
 	}
 }

@@ -73,7 +73,8 @@ public class ImportFromJsonDataFile implements DataImportService {
             logger.info("Branch :" + k.getName() + ", offices amount :" + v.size() );
 
             // create branch entity
-            Branch branchEntity = new Branch(k.getName());
+            // Идентификатор филиала должен быть совместим с идентификаторами ДЭК.
+            Branch branchEntity = new Branch(k.getId(), k.getName());
             branchRepository.save(branchEntity);
 
             Map<OfficeObject,List<StationObject>> byOffice =
@@ -84,7 +85,7 @@ public class ImportFromJsonDataFile implements DataImportService {
                 // ov - список станций данного отделения
                 System.out.println(" - office :" + ok.getName() + ", stations amount :" + ov.size() );
 
-                Office officeEntity = new Office(ok.getName(),branchEntity);
+                Office officeEntity = new Office(ok.getId(), ok.getName(),branchEntity);
                 officeRepository.save(officeEntity);
 
                 ov.forEach( stationObject -> {

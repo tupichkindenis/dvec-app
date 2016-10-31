@@ -6,6 +6,7 @@ import org.springframework.util.Assert;
 import javax.persistence.*;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.UUID;
 
 /**
  * Сущность ФИЛИАЛ.
@@ -21,17 +22,20 @@ public class Branch extends AbstractEntity {
     @JoinColumn(name = "BRANCH_ID")
     private Set<Office> offices = new HashSet<>();
 
+    private Branch(){
+    }
+
     /**
      * Ctor.
      * @param name
      */
-    public Branch(String name) {
+    public Branch(UUID id, String name) {
+        super(id);
         Assert.notNull(name);
         Assert.hasLength(name);
         this.setName(name);
     }
 
-    protected Branch() {}
 
     /**
      *
