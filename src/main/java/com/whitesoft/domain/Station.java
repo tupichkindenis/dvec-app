@@ -1,5 +1,6 @@
 package com.whitesoft.domain;
 
+import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.whitesoft.domain.core.AbstractEntity;
 import lombok.Builder;
@@ -23,6 +24,7 @@ import java.util.*;
 public class Station extends AbstractEntity {
 
     @ManyToOne(optional = false)
+    @JsonIgnore
     private Office office;
 
     @Column(nullable = false)

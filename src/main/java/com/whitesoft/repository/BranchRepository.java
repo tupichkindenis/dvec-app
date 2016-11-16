@@ -1,8 +1,7 @@
 package com.whitesoft.repository;
 
 import com.whitesoft.domain.Branch;
-import com.whitesoft.repository.projections.BranchInlineProjection;
-import org.springframework.cache.annotation.Cacheable;
+import com.whitesoft.domain.projections.BranchStandardProjection;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
 import org.springframework.data.rest.core.annotation.RepositoryRestResource;
@@ -15,10 +14,8 @@ import java.util.UUID;
  * Created by tupichkindenis on 21.09.16.
  */
 @Component
-@RepositoryRestResource
+@RepositoryRestResource(excerptProjection = BranchStandardProjection.class)
 public interface BranchRepository extends PagingAndSortingRepository<Branch, UUID> {
-
     List<Branch> findByName(@Param("name") String name);
-
 }
 

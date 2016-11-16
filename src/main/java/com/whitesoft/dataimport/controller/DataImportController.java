@@ -20,6 +20,7 @@ public class DataImportController {
     private DataImportService dataImportService;
 
     @RequestMapping(value = "/populate", method = RequestMethod.POST)
+    @Deprecated
     public ResponseEntity populate(){
         dataImportService.doImport();
         return ResponseEntity.ok().build();

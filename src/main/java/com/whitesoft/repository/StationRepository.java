@@ -1,7 +1,7 @@
 package com.whitesoft.repository;
 
 import com.whitesoft.domain.Station;
-import org.springframework.cache.annotation.Cacheable;
+import com.whitesoft.domain.projections.StationStandardProjection;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.repository.PagingAndSortingRepository;
@@ -18,7 +18,7 @@ import java.util.UUID;
  * Created by tupichkindenis on 21.09.16.
  */
 @Component
-@RepositoryRestResource
+@RepositoryRestResource(excerptProjection = StationStandardProjection.class)
 public interface StationRepository extends PagingAndSortingRepository<Station, UUID> {
 
     @PreAuthorize("hasRole('ROLE_ADMIN')")
@@ -37,7 +37,7 @@ public interface StationRepository extends PagingAndSortingRepository<Station, U
     @Override
     void deleteAll();
 
-     Page<Station> findAll(Pageable pageable);
+    Page<Station> findAll(Pageable pageable);
 
 
     List<Station> findByName(@Param("name") String name);
