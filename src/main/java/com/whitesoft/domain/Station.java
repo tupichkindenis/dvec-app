@@ -2,6 +2,10 @@ package com.whitesoft.domain;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.whitesoft.domain.core.AbstractEntity;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 import org.springframework.util.Assert;
 
 import javax.persistence.*;
@@ -14,6 +18,8 @@ import java.util.*;
  */
 @Entity
 @Table(name = "STATION")
+@Setter @Getter
+@NoArgsConstructor
 public class Station extends AbstractEntity {
 
     @ManyToOne(optional = false)
@@ -50,22 +56,9 @@ public class Station extends AbstractEntity {
             joinColumns = @JoinColumn(name = "STATION_ID") )
     private List<Workday> workDays = new ArrayList<>();
 
-    @ElementCollection
-    @CollectionTable(
-        name = "STATION_PAYSYSTEMS",
-        joinColumns = @JoinColumn(name = "STATION_ID") )
-    private List<PaymentSystem> paymentSystems = new ArrayList<>();
-
-    private Station(){}
-
+    @Builder
     public Station(String name, Office office, LegalAddress legalAddress, GeoLocation geoLocation) {
-
         super(UUID.randomUUID());
-
-        Assert.notNull(name);
-        Assert.hasLength(name);
-        Assert.notNull(office);
-        Assert.notNull(legalAddress);
 
         this.setName(name);
         this.setOffice(office);
@@ -73,75 +66,5 @@ public class Station extends AbstractEntity {
         this.setGeolocation(geoLocation);
     }
 
-    public Office getOffice() {
-        return office;
-    }
 
-    public void setOffice(Office office) {
-        this.office = office;
-    }
-
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public LegalAddress getLegalAddress() {
-        return legalAddress;
-    }
-
-    public void setLegalAddress(LegalAddress legalAddress) {
-        this.legalAddress = legalAddress;
-    }
-
-    public GeoLocation getGeolocation() {
-        return geolocation;
-    }
-
-    public void setGeolocation(GeoLocation geolocation) {
-        this.geolocation = geolocation;
-    }
-
-    public List<Workday> getWorkDays() {
-        return workDays;
-    }
-
-    public List<PhoneNumber> getPhones() {
-        return phones;
-    }
-
-    public void setPhones(List<PhoneNumber> phones) {
-        this.phones = phones;
-    }
-
-    public List<FaxNumber> getFaxes() {
-        return faxes;
-    }
-
-    public void setFaxes(List<FaxNumber> faxes) {
-        this.faxes = faxes;
-    }
-
-    public List<EmailAddress> getEmails() {
-        return emails;
-    }
-
-    public void setEmails(List<EmailAddress> emails) {
-        this.emails = emails;
-    }
-
-    public void setWorkDays(List<Workday> workDays) {
-        this.workDays = workDays;
-    }
-
-    public List<PaymentSystem> getPaymentSystems() {
-        return paymentSystems;
-    }
-
-    public void setPaymentSystems(List<PaymentSystem> paymentSystems) {
-        this.paymentSystems = paymentSystems;
-    }
 }

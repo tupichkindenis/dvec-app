@@ -20,6 +20,7 @@ import org.springframework.stereotype.Service;
 
 import java.io.*;
 import java.lang.reflect.Type;
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
 import java.util.Map;
@@ -74,7 +75,7 @@ public class ImportFromJsonDataFile implements DataImportService {
 
             // create branch entity
             // Идентификатор филиала должен быть совместим с идентификаторами ДЭК.
-            Branch branchEntity = new Branch(k.getId(), k.getName());
+            Branch branchEntity = Branch.builder().id(k.getId()).name(k.getName()).build();
             branchRepository.save(branchEntity);
 
             Map<OfficeObject,List<StationObject>> byOffice =
@@ -85,7 +86,19 @@ public class ImportFromJsonDataFile implements DataImportService {
                 // ov - список станций данного отделения
                 System.out.println(" - office :" + ok.getName() + ", stations amount :" + ov.size() );
 
-                Office officeEntity = new Office(ok.getId(), ok.getName(),branchEntity);
+                Office officeEntity = Office.builder()
+                        .id(ok.getId())
+                        .name(ok.getName())
+                        .branch(branchEntity)
+                        .paySystems( new ArrayList<PaymentSystem>(){{
+                            // create identifier for payment system now it is only CHRONOPAY
+                            add( PaymentSystem.builder()
+                                    .type(PaymentSystems.CHRONOPAY)
+                                    .prefix(ov.get(0).getPayment().getChronopay().getBranchid())
+                                    .suffix(ov.get(0).getPayment().getChronopay().getOfficeid().toString()).build() );
+                        }})
+                        .build();
+
                 officeRepository.save(officeEntity);
 
                 ov.forEach( stationObject -> {
@@ -108,10 +121,6 @@ public class ImportFromJsonDataFile implements DataImportService {
                                     stationObject.getLocation().getLatitude(),
                                     stationObject.getLocation().getLongitude()
                             ));
-
-                    // Инициализируем информацию о платежной системе
-                    stationEntity.getPaymentSystems().add(
-                            new PaymentSystem(PaymentSystems.CHRONOPAY, stationObject.getPayment().getChronopayid()));
 
                     // Инициализируем информацию о расписании работы
                     // удаляе "пустые дни"
@@ -143,6 +152,7 @@ public class ImportFromJsonDataFile implements DataImportService {
                     stationObject.getEmails()
                             .stream()
                             .filter(p -> p != null)
+                            .filter(p -> !p.isEmpty())
                             .collect(Collectors.toList())
                             .forEach( e ->
                                 stationEntity.getEmails().add( new EmailAddress(e) ) );

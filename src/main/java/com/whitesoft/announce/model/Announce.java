@@ -1,5 +1,9 @@
 package com.whitesoft.announce.model;
 
+
+import com.whitesoft.domain.core.AbstractEntity;
+import lombok.*;
+
 import javax.persistence.*;
 import java.util.Date;
 
@@ -8,56 +12,42 @@ import java.util.Date;
  *
  * Created by Tupichkin Denis on 31.10.16.
  */
-//@Entity
-public class Announce {
-    /**
-     *  Уникальный идентификатор объявления.
-     */
-//    @Id
-//    @GeneratedValue(strategy = GenerationType.AUTO)
-    private Integer id;
+@Entity
+@Getter @Setter
+@Builder
+@NoArgsConstructor
+@AllArgsConstructor
+@Table(name = "announce")
+@Inheritance(strategy = InheritanceType.JOINED)
+public class Announce extends AbstractEntity {
 
-    /**
-     *  Дата создания объявления.
-     */
-    private Date createdAt;
+    @Enumerated(EnumType.STRING)
+    @Column(name = "status", length = 32, nullable = false)
+    private AnnounceStatus status;
 
-    /**
-     *  Автор объявления.
-     */
-    private String creator;
+    @Temporal(TemporalType.TIMESTAMP)
+    @Column(name = "create_time", nullable = false)
+    @Setter(value = AccessLevel.NONE)
+    private Date createTime = new Date();
 
-    /**
-     *  Текст объявления.
-     */
-//    @Column(name = "TEXT", length = 256)
+    @Column(name = "author", length = 128, nullable = false)
+    private String author;
+
+    @Column(name = "header", length = 256, nullable = false)
+    private String header;
+
+    @Column(name = "text", length = 2000)
     private String text;
 
-    private Announce(){}
-
-    public Announce(String creator, Date createdAt, String text){
-        this.creator = creator;
-        this.createdAt = createdAt;
-        this.text = text;
-    }
-
-    public Integer getId() {
-        return id;
-    }
-
-    public Date getCreatedAt() {
-        return createdAt;
-    }
-
-    public String getCreator() {
-        return creator;
-    }
-
-    public String getText() {
-        return text;
-    }
-
-    public void setText(String text) {
-        this.text = text;
+    @Override
+    public String toString() {
+        return "Announce{" +
+                " announceId="  + getId().toString() +
+                ", status="     + status +
+                ", createTime=" + createTime +
+                ", author='"    + author + '\'' +
+                ", header='"    + header + '\'' +
+                ", text='"      + text + '\'' +
+                '}';
     }
 }

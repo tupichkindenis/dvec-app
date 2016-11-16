@@ -1,6 +1,7 @@
 package com.whitesoft.domain.core;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
+import lombok.EqualsAndHashCode;
 import org.hibernate.annotations.GenericGenerator;
 import org.hibernate.annotations.Type;
 import javax.persistence.*;
@@ -13,6 +14,7 @@ import java.util.UUID;
  * Created by tupichkindenis on 21.09.16.
  */
 @MappedSuperclass
+@EqualsAndHashCode(of = {"id"})
 public class AbstractEntity {
 
     @Id
@@ -63,10 +65,5 @@ public class AbstractEntity {
         if (o == null || getClass() != o.getClass()) return false;
         AbstractEntity that = (AbstractEntity) o;
         return Objects.equals(id, that.id);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(id);
     }
 }
