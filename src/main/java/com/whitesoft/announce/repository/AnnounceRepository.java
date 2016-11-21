@@ -6,6 +6,8 @@ import com.whitesoft.announce.model.projections.AnnounceStandardProjection;
 import com.whitesoft.domain.Branch;
 import com.whitesoft.domain.Office;
 import com.whitesoft.domain.projections.BranchStandardProjection;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
