@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>ПАО "ДЭК" Управление мобильным приложением</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="http://cdn.jsdelivr.net/webjars/bootstrap/3.3.7/css/bootstrap.min.css" th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap.min.css}"  rel="stylesheet" media="screen" />
+    <!-- Custom CSS -->
+    <link href="css/dist/css/sb-admin-2.css" rel="stylesheet" />
+    <!-- Custom Fonts -->
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="col-md-4 col-md-offset-4">
+            <form action="#" th:action="@{/api/announces/add-ex}" th:object="${addAnnounceParam}" method="post">
+            <fieldset>
+                <div class="form-group">
+                    <label>Автор объявления</label>
+                    <input class="form-control" th:field="*{author}" type="text" name="author" required="required"/>
+                </div>
+                <div class="form-group">
+                    <label>Заголовок объявления</label>
+                    <input class="form-control" th:field="*{header}" type="text" name="header" required="required"/>
+                </div>
+                <div class="form-group">
+                    <label>Основной текст объявления</label>
+                    <textarea class="form-control" th:field="*{text}" rows="3" name="text" required="required"/>
+                </div>
+                <button class="btn btn-lg btn-success btn-block" type="submit">Отправить</button>
+            </fieldset>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

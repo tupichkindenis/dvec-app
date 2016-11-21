@@ -100,6 +100,13 @@
     <orderEntry type="library" scope="TEST" name="Maven: javax.servlet:javax.servlet-api:3.1.0" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-configuration-processor:1.4.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.json:json:20140107" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.4.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.thymeleaf:thymeleaf-spring4:2.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: org.thymeleaf:thymeleaf:2.1.5.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: ognl:ognl:3.0.8" level="project" />
+    <orderEntry type="library" name="Maven: org.unbescape:unbescape:1.1.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy:2.4.7" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.7" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.projectlombok:lombok:1.16.10" level="project" />
     <orderEntry type="library" name="Maven: org.mapstruct:mapstruct-jdk8:1.0.0.Final" level="project" />
@@ -118,5 +125,7 @@
     <orderEntry type="library" name="Maven: com.google.guava:guava-jdk5:17.0" level="project" />
     <orderEntry type="library" name="Maven: com.google.gcm:gcm-server:1.0.0" level="project" />
     <orderEntry type="library" name="Maven: com.googlecode.json-simple:json-simple:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.webjars:bootstrap:3.3.7" level="project" />
+    <orderEntry type="library" name="Maven: org.webjars:jquery:3.1.1" level="project" />
   </component>
 </module>

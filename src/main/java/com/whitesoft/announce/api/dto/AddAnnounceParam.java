@@ -1,8 +1,11 @@
 package com.whitesoft.announce.api.dto;
 
+import org.springframework.stereotype.Component;
+
 /**
  * Created by tupichkindenis on 01.11.16.
  */
+@Component
 public class AddAnnounceParam {
 
     private String author;

@@ -10,7 +10,11 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.data.rest.webmvc.RepositoryRestController;
 import org.springframework.hateoas.Resource;
 import org.springframework.http.ResponseEntity;
+import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.*;
+
+import javax.validation.Valid;
 
 import static org.springframework.hateoas.core.DummyInvocationUtils.methodOn;
 import static org.springframework.hateoas.mvc.ControllerLinkBuilder.linkTo;
@@ -26,6 +30,27 @@ public class AnnounceController {
         this.messagingService = messagingService;
         this.announceService = service;
     }
+
+
+    @PostMapping(value = "/announces/add-ex")
+    public String addEx(@Valid @ModelAttribute("addAnnounceParam") AddAnnounceParam announceParam,
+                        BindingResult bindingResult,
+                        Model model){
+
+        if(bindingResult.hasErrors()){
+            System.out.println("There was a error "+bindingResult);
+            System.out.println("Person is: "+ announceParam.getAuthor());
+            return "index";
+        }
+
+        // Добавляем объявление
+        Announce announce = announceService.createAnnounce(
+                announceParam.getAuthor(),
+                announceParam.getHeader(),
+                announceParam.getText());
+        return "announce";
+    }
+
 
     /**
      * @param param

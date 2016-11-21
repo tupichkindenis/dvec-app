@@ -1,4 +1,4 @@
-package com.whitesoft.javaconfig;
+package com.whitesoft.config;
 
 import com.whitesoft.messaging.util.FCMProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

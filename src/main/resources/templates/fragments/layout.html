@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head th:fragment="site-head">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta th:include="this :: head" th:remove="tag"/>
+
+    <!-- Links -->
+    <link rel="icon" href="../../favicon.ico" />
+    <link href="http://cdn.jsdelivr.net/webjars/bootstrap/3.3.7/css/bootstrap.min.css"
+          th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap.min.css}"  rel="stylesheet" media="screen" />
+    <!-- Scripts -->
+    <script src="http://cdn.jsdelivr.net/webjars/jquery/3.1.1/jquery.min.js"
+            th:src="@{/webjars/jquery/3.1.1/jquery.min.js}"/>
+
+
+</head>
+
+<body>
+<header th:fragment="site-header">
+    <a href="index.html" th:href="@{/}"><img src="../public/img/site-logo.png" th:src="@{/img/site-logo.png}" /></a>
+    <a href="../index.html" th:href="@{/}">Home</a>
+    <a href="users/login.html" th:href="@{/users/login}">Login</a>
+    <a href="users/register.html" th:href="@{/users/register}">Register</a>
+    <a href="posts/index.html" th:href="@{/posts}">Posts</a>
+    <a href="posts/create.html" th:href="@{/posts/create}">Create Post</a>
+    <a href="users/index.html" th:href="@{/users}">Users</a>
+    <div id="logged-in-info"> <span>Hello, <b>(user)</b></span>
+        <form method="post" th:action="@{/users/logout}">
+            <input type="submit" value="Logout"/>
+        </form>
+    </div>
+
+</header>
+
+<h1>Welcome</h1>
+
+<p>Бэк офис ДВЭК</p>
+
+<footer th:fragment="site-footer">
+    &copy; Spring MVC Blog System, 2016
+</footer>
+</body>
+</html>
