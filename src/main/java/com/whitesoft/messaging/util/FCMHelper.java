@@ -1,47 +1,37 @@
 package com.whitesoft.messaging.util;
 
 import com.google.gson.JsonObject;
+import lombok.Getter;
+import lombok.Setter;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.BasicResponseHandler;
 import org.apache.http.impl.client.HttpClientBuilder;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.stereotype.Component;
 
 import java.io.IOException;
 
 /**
  * Created by Toni on 30.09.2016.
  */
+@Component
 public class FCMHelper  {
-
-    /**
-     * Instance
-     **/
-    private static FCMHelper instance = null;
-
-    /**
-     * Google URL to use firebase cloud messenging
-     */
-    private static final String URL_SEND = "https://fcm.googleapis.com/fcm/send";
-
-    /**
-     * STATIC TYPES
-     */
 
     public static final String TYPE_TO = "to";  // Use for single devices, device groups and topics
     public static final String TYPE_CONDITION = "condition"; // Use for Conditions
 
-    /**
-     * Your SECRET server key
-     */
-    private static final String FCM_SERVER_KEY = "AIzaSyB6zsYq84CwxqBiBrgyI8iwHTdRik6q8D8";
+    private final FCMProperties config;
 
-    public static FCMHelper getInstance() {
-        if (instance == null) instance = new FCMHelper();
-        return instance;
+    @Autowired
+    private FCMHelper(FCMProperties config) {
+        this.config = config;
     }
-
-    private FCMHelper() {}
 
     /**
      * Send notification
@@ -130,11 +120,11 @@ public class FCMHelper  {
      */
     private String sendFcmMessage(JsonObject sendObject, JsonObject notificationObject, JsonObject dataObject) throws IOException {
 
-        HttpPost httpPost = new HttpPost(URL_SEND);
+        HttpPost httpPost = new HttpPost(config.getUrl());
 
         // Header set
         httpPost.setHeader("Content-Type", "application/json");
-        httpPost.setHeader("Authorization", "key=" + FCM_SERVER_KEY);
+        httpPost.setHeader("Authorization", "key=" + config.getServerKey());
 
         if (notificationObject != null) sendObject.add("notification", notificationObject);
         if (dataObject != null) sendObject.add("data", dataObject);

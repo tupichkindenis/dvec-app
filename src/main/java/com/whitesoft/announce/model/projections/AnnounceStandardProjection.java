@@ -7,7 +7,7 @@ import org.springframework.data.rest.core.config.Projection;
 import java.util.Date;
 import java.util.UUID;
 
-@Projection(name = "std", types = {Announce.class })
+@Projection(name = "std", types = {Announce.class})
 @JsonPropertyOrder({"id","createTime","author","header","text"})
 public interface AnnounceStandardProjection {
     UUID getId();

@@ -1,6 +1,7 @@
 package com.whitesoft.announce.model;
 
 
+import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.whitesoft.domain.core.AbstractEntity;
 import lombok.*;
@@ -26,6 +27,7 @@ public class Announce extends AbstractEntity {
     @Temporal(TemporalType.TIMESTAMP)
     @Column(name = "create_time", nullable = false)
     @Setter(value = AccessLevel.NONE)
+    @JsonFormat()
     private Date createTime = new Date();
 
     @Column(name = "author", length = 128, nullable = false)
