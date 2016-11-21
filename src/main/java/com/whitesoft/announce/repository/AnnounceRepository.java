@@ -2,8 +2,10 @@ package com.whitesoft.announce.repository;
 
 import com.whitesoft.announce.model.Announce;
 import com.whitesoft.announce.model.AnnounceStatus;
+import com.whitesoft.announce.model.projections.AnnounceStandardProjection;
 import com.whitesoft.domain.Branch;
 import com.whitesoft.domain.Office;
+import com.whitesoft.domain.projections.BranchStandardProjection;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.PagingAndSortingRepository;
 import org.springframework.data.repository.query.Param;
@@ -15,14 +17,7 @@ import java.util.List;
 import java.util.UUID;
 import java.util.stream.Stream;
 
-/**
- *
- * Created by tupichkindenis on 31.10.16.
- */
 @Component
-@RepositoryRestResource
+@RepositoryRestResource(excerptProjection = AnnounceStandardProjection.class)
 public interface AnnounceRepository extends PagingAndSortingRepository<Announce, UUID> {
-
-    List<Announce> findByStatus(AnnounceStatus status);
-
 }

@@ -48,7 +48,7 @@ public interface AnnounceService {
      * @param count
      * @return
      */
-    List<Announce> searchAnnounce(Date since, Date until, int count);
+  //  List<Announce> searchAnnounce(Date since, Date until, int count);
 
     /**
      *

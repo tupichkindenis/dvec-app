@@ -42,7 +42,6 @@ public class AnnounceServiceImpl implements AnnounceService {
         Assert.hasText(text);
 
         Announce announce = new Announce();
-        announce.setStatus(AnnounceStatus.DRAFT);
         announce.setAuthor(author);
         announce.setHeader(header);
         announce.setText(text);
@@ -61,18 +60,18 @@ public class AnnounceServiceImpl implements AnnounceService {
         return announceRepository.save(announce);
     }
 
-    @Override
-    public List<Announce> searchAnnounce(Date beforeDate, Date afterDate, int count) {
-        List<Announce> announces =
-                 announceRepository.findByStatus(AnnounceStatus.PUBLISHED)
-                .stream()
-                         // берем только те, у которых дата публикации
-                         .sorted((p1, p2) -> -p1.getCreateTime().compareTo(p2.getCreateTime()))
-                         .filter(p -> (p.getCreateTime().before(beforeDate) && p.getCreateTime().after(afterDate)))
-                         .limit(count)
-                         .collect(Collectors.toList());
-        return announces;
-    }
+//    @Override
+//    public List<Announce> searchAnnounce(Date beforeDate, Date afterDate, int count) {
+//        List<Announce> announces =
+//                 announceRepository.findByStatus(AnnounceStatus.PUBLISHED)
+//                .stream()
+//                         // берем только те, у которых дата публикации
+//                         .sorted((p1, p2) -> -p1.getCreateTime().compareTo(p2.getCreateTime()))
+//                         .filter(p -> (p.getCreateTime().before(beforeDate) && p.getCreateTime().after(afterDate)))
+//                         .limit(count)
+//                         .collect(Collectors.toList());
+//        return announces;
+//    }
 
     @Override
     public void showAnnounce(Announce announce) {

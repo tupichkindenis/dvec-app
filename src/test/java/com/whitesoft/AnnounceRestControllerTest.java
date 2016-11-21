@@ -65,7 +65,6 @@ public class AnnounceRestControllerTest {
 
     // todo Add id to ctor.
     private final Announce announce = (new Announce()).builder()
-            .status(adsStatus)
             .createTime(adsCreateTime)
             .author(adsAuthor)
             .header(adsHeader)
@@ -186,7 +185,6 @@ public class AnnounceRestControllerTest {
         firstAnnounce.setAuthor(adsAuthor);
         firstAnnounce.setHeader(adsHeader);
         firstAnnounce.setText(adsText);
-        firstAnnounce.setStatus(AnnounceStatus.PUBLISHED);
         //
         announces.add(firstAnnounce);
 
@@ -196,7 +194,6 @@ public class AnnounceRestControllerTest {
         secondAnnounce.setAuthor(adsAuthor);
         secondAnnounce.setHeader(adsHeader);
         secondAnnounce.setText(adsText);
-        secondAnnounce.setStatus(AnnounceStatus.PUBLISHED);
         //
         announces.add(secondAnnounce);
 

@@ -1,6 +1,7 @@
 package com.whitesoft.announce.model;
 
 
+import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import com.whitesoft.domain.core.AbstractEntity;
 import lombok.*;
 
@@ -19,11 +20,8 @@ import java.util.Date;
 @AllArgsConstructor
 @Table(name = "announce")
 @Inheritance(strategy = InheritanceType.JOINED)
+@JsonPropertyOrder({"id","createTime","author","header","text"})
 public class Announce extends AbstractEntity {
-
-    @Enumerated(EnumType.STRING)
-    @Column(name = "status", length = 32, nullable = false)
-    private AnnounceStatus status;
 
     @Temporal(TemporalType.TIMESTAMP)
     @Column(name = "create_time", nullable = false)
@@ -42,8 +40,7 @@ public class Announce extends AbstractEntity {
     @Override
     public String toString() {
         return "Announce{" +
-                " announceId="  + getId().toString() +
-                ", status="     + status +
+                 " announceId=" + getId().toString() +
                 ", createTime=" + createTime +
                 ", author='"    + author + '\'' +
                 ", header='"    + header + '\'' +
