@@ -32,26 +32,6 @@ public class AnnounceController {
     }
 
 
-    @PostMapping(value = "/announces/add-ex")
-    public String addEx(@Valid @ModelAttribute("addAnnounceParam") AddAnnounceParam announceParam,
-                        BindingResult bindingResult,
-                        Model model){
-
-        if(bindingResult.hasErrors()){
-            System.out.println("There was a error "+bindingResult);
-            System.out.println("Person is: "+ announceParam.getAuthor());
-            return "index";
-        }
-
-        // Добавляем объявление
-        Announce announce = announceService.createAnnounce(
-                announceParam.getAuthor(),
-                announceParam.getHeader(),
-                announceParam.getText());
-        return "announce";
-    }
-
-
     /**
      * @param param
      * @return

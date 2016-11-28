@@ -30,7 +30,7 @@ public class AnnounceServiceImpl implements AnnounceService {
 
     @Override
     public List<Announce> getAll(){
-        return new ArrayList<>();
+        return announceRepository.findAllByOrderByCreateTime();
     }
 
     @Override

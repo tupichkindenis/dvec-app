@@ -22,4 +22,5 @@ import java.util.stream.Stream;
 @Component
 @RepositoryRestResource(excerptProjection = AnnounceStandardProjection.class)
 public interface AnnounceRepository extends PagingAndSortingRepository<Announce, UUID> {
+    List<Announce> findAllByOrderByCreateTime();
 }
