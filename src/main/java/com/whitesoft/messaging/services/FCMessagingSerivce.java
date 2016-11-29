@@ -1,8 +1,18 @@
 package com.whitesoft.messaging.services;
 
+import com.google.api.client.http.HttpStatusCodes;
 import com.google.gson.JsonObject;
 import com.whitesoft.announce.model.Announce;
+import com.whitesoft.messaging.model.PushNotification;
 import com.whitesoft.messaging.util.FCMHelper;
+import com.whitesoft.messaging.util.JsonUtil;
+import org.apache.http.HttpHeaders;
+import org.apache.http.HttpResponse;
+import org.apache.http.client.HttpClient;
+import org.apache.http.client.methods.RequestBuilder;
+import org.apache.http.entity.ContentType;
+import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.HttpClientBuilder;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,6 +24,9 @@ public class FCMessagingSerivce implements MessagingService {
 
     private static final Logger logger = LoggerFactory.getLogger(FCMessagingSerivce.class);
 
+    private final String key = "AIzaSyCPknQdIBAHeRdHFAqBScSp2cg80CkmPSM";
+    private final String requestUrl = "https://fcm.googleapis.com/fcm/send";
+
     private FCMHelper fcmHelper;
 
     @Autowired
@@ -24,20 +37,28 @@ public class FCMessagingSerivce implements MessagingService {
     @Override
     public void sendNotificationAboutNewAds(Announce ads) {
 
-        JsonObject payLoad = new JsonObject();
-        payLoad.addProperty("title",ads.getHeader());
-        payLoad.addProperty("body", ads.getText());
+        PushNotification notification = new PushNotification("/topics/ads"
+                ,ads.getId()
+                ,ads.getHeader()
+                ,ads.getText());
 
-        JsonObject data = new JsonObject();
-        data.addProperty("id", ads.getId().toString() );
+        try {
 
-        logger.info(String.format("Notification: {%s}", payLoad.toString()));
+            HttpClient httpClient = HttpClientBuilder.create().build();
 
-        try{
-            fcmHelper.sendTopicNotificationAndData("ads", payLoad, data);
-        }catch (Exception ex)
-        {
-            logger.error(ex.getLocalizedMessage());
+            String body_json = JsonUtil.toJson(notification);
+            StringEntity body = new StringEntity(body_json != null ? body_json : "");
+            body.setContentType(ContentType.APPLICATION_JSON.getMimeType());
+
+            HttpResponse response = httpClient.execute(RequestBuilder.post(requestUrl).addHeader(HttpHeaders.AUTHORIZATION, "key=" + key).setEntity(body).build());
+
+            if (response.getStatusLine().getStatusCode() != HttpStatusCodes.STATUS_CODE_OK) {
+                logger.error(String.format("Статус: %d, , уведомление не отправлено по причине: %s",
+                        response.getStatusLine().getStatusCode(), response.getStatusLine().getReasonPhrase()));
+            }
+
+        } catch (Exception e) {
+            logger.error(e.toString());
         }
     }
 }

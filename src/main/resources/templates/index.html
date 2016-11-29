@@ -1,79 +1,40 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
-<head>
-    <meta charset="UTF-8"/>
-    <title>ПАО "ДЭК" Управление мобильным приложением</title>
-
-    <!-- Bootstrap Core CSS -->
-    <link href="http://cdn.jsdelivr.net/webjars/bootstrap/3.3.7/css/bootstrap.min.css" th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap.min.css}"  rel="stylesheet" media="screen" />
-    <!-- Custom CSS -->
-    <link href="css/dist/css/sb-admin-2.css" rel="stylesheet" />
-    <!-- Custom Fonts -->
-    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-
-</head>
+<head th:replace="fragments/layout :: head" />
 
 <body>
-    <div class="container">
-    <button type="button" class="btn btn-info" data-toggle="modal" data-target="#myModal">Отправить сообщение</button>
-
-    <!-- Allerts -->
-    <div class="alert alert-success alert-dismissible" role="alert">Ваше сообщение отправлено.</div>
-    <div class="alert alert-danger alert-dismissible" role="alert">
-        <button type="button" class="close" data-dismiss="alert" aria-label="Закрыть"><span aria-hidden="true">&times;</span></button>
-        <strong>Warning!</strong> Better check yourself, you're not looking too good.
-    </div>
-
-    <table class="table table-striped">
-        <thead>
-        <tr>
-            <th>Id</th>
-            <th>Date</th>
-            <th>Author</th>
-            <th>Header</th>
-            <th>Text</th>
-            <th></th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr th:each="announce : ${announceList}">
-            <td th:text="${announce.id}"></td>
-            <td th:text="${announce.createTime}"></td>
-            <td th:text="${announce.author}"></td>
-            <td th:text="${announce.header}"></td>
-            <td th:text="${announce.text}"></td>
-        </tr>
-        </tbody>
-    </table>
-
-    <!-- Modal -->
-    <div id="myModal" class="modal small fade" role="dialog">
+    <!-- Модальное окно для ввода объявления - НАЧАЛО -->
+    <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModal" aria-hidden="true">
+        <!-- Modal dialog -->
         <div class="modal-dialog">
             <!-- Modal content-->
             <div class="modal-content">
                 <form id="send-notification-form" method="post" data-toggle="validator">
+                    <!-- Modal header -->
                     <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                         <h4 class="modal-title">Новое уведомление</h4>
                     </div>
+                    <!-- Modal body -->
                     <div class="modal-body">
                         <p>Some text in the modal.</p>
-                            <fieldset>
-                                <div class="form-group has-feedback">
-                                    <label class="control-label" id="message-author-label" for="message-author">Автор</label>
-                                    <input class="form-control"  id="message-author"  type="text" name="author" required="required"/>
-                                    <span  class="help-block"    id="message-author-error" >A block of help text that breaks onto a new line and may extend beyond one line.</span>
-                                </div>
-                                <div class="form-group">
-                                    <label class="control-label" for="message-header">Заголовок</label>
-                                    <input id="message-header" class="form-control" type="text" name="header" required="required"/>
-                                </div>
-                                <div class="form-group">
-                                    <label class="control-label" for="message-body">Текст</label>
-                                    <textarea id="message-body" class="form-control" rows="3" name="text" required="required"/>
-                                </div>
-                            </fieldset>
+                        <fieldset>
+                            <div class="form-group has-feedback">
+                                <label class="control-label" id="message-author-label" for="message-author">Автор</label>
+                                <input class="form-control"  id="message-author"  type="text" name="author" required="required"/>
+                                <span  class="help-block"    id="message-author-error" >A block of help text that breaks onto a new line and may extend beyond one line.</span>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label" for="message-header">Заголовок</label>
+                                <input id="message-header" class="form-control" type="text" name="header" required="required"/>
+                            </div>
+                            <div class="form-group">
+                                <label class="control-label" for="message-body">Текст</label>
+                                <textarea id="message-body" class="form-control" rows="3" name="text" required="required"/>
+                            </div>
+                        </fieldset>
                     </div>
+                    <!-- Modal footer -->
                     <div class="modal-footer">
                         <button id="message-send-button" type="submit" class="btn btn-primary" data-loading-text="Отправляю...">Отправить</button>
                         <button type="button" class="btn btn-default" data-dismiss="modal">Закрыть</button>
@@ -83,6 +44,34 @@
 
         </div>
     </div>
+    <!-- Модальное окно для ввода объявления - КОНЕЦ -->
+    <!-- NAVBAR BEGIN -->
+    <nav th:replace="fragments/navbar :: navbar('home')" />
+    <!-- NAVBAR END -->
+    <div class="container-fluid">
+        <h1><small>Главный раздел</small></h1>
+        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">Отправить</button>
+
+        <table class="table table-striped">
+            <thead>
+            <tr>
+                <th>Дата</th>
+                <th>Автор</th>
+                <th>Заголовок</th>
+                <th>Текст сообшения</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr th:each="announce : ${announceList}">
+                <td th:text="${announce.createTime}"></td>
+                <td th:text="${announce.author}"></td>
+                <td th:text="${announce.header}"></td>
+                <td th:text="${announce.text}"></td>
+            </tr>
+            </tbody>
+        </table>
+
+
     </div>
 
     <!-- jQuery -->
@@ -94,27 +83,29 @@
         $(document).ready(function(){
             $("#send-notification-form").on('submit', function(e){
                 e.preventDefault();
+                $("#message-send-button").button('loading');
                 $.ajax({
                     url: "api/announces/add",
                     type: "POST",
                     contentType:"application/json; charset=utf-8",
                     dataType:"json",
-                    data: JSON.stringify(
-                            {
+                    data: JSON.stringify({
                                 "author": $("#message-author").val(),
                                 "header": $("#message-header").val(),
                                 "text":   $("#message-body").val()
                             }),
                     success: function(data)
                     {
-                        alert("Successfully submitted.")
+                        $('.modal-backdrop').hide(); // for black background
+                        $('body').removeClass('modal-open'); // For scroll run
+                        $('#myModal').modal('hide');
                     },
-                    error: function (data) {
-                        alert("Error.")
+                    error: function(xhr, textStatus, error) {
+                        console.log(xhr.statusText);
+                        console.log(textStatus);
+                        console.log(error);
                     }
                 });
-                // Set a timeout to hide the element again
-                $("#send-notification-form").hide();
             });
         });
     </script>

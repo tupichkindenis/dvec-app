@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<body>
+    <!-- NAVIGATION BEGIN -->
+    <div th:fragment="navbar(activeTab)">
+        <nav  class="navbar navbar-default navbar-static-top">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">ПАО ДЭК</a>
+                </div>
+                <div class="collapse navbar-collapse" id="myNavbar">
+                    <ul class="nav navbar-nav">
+                        <li th:class = "${activeTab=='home'}     ? 'active' : null"><a href="/"         th:href="@{/}"         >Главная</a></li>
+                        <li th:class = "${activeTab=='notices'}  ? 'active' : null"><a href="/notices"  th:href="@{/notices}"  >Уведомления</a></li>
+                        <li th:class = "${activeTab=='offices'}  ? 'active' : null"><a href="/offices"  th:href="@{/offices}"  >Офисы</a></li>
+                        <li th:class = "${activeTab=='settings'} ? 'active' : null"><a href="/settings" th:href="@{/settings}" >Настройки</a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="\login"><span class="glyphicon glyphicon-log-in"></span> Выход</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <!-- NAVIGATION END -->
+</body>
+</html>

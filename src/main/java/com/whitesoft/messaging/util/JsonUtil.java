@@ -4,9 +4,6 @@ import com.fasterxml.jackson.core.JsonGenerator;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.log4j.Logger;
 
-/**
- * Created by tupichkindenis on 21.11.16.
- */
 public class JsonUtil {
     private final static ObjectMapper objectMapper = new ObjectMapper();
 
