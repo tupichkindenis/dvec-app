@@ -39,6 +39,7 @@ public class FCMessagingSerivce implements MessagingService {
 
         PushNotification notification = new PushNotification("/topics/ads"
                 ,ads.getId()
+                ,ads.getCreateTime()
                 ,ads.getHeader()
                 ,ads.getText());
 
@@ -50,7 +51,10 @@ public class FCMessagingSerivce implements MessagingService {
             StringEntity body = new StringEntity(body_json != null ? body_json : "");
             body.setContentType(ContentType.APPLICATION_JSON.getMimeType());
 
-            HttpResponse response = httpClient.execute(RequestBuilder.post(requestUrl).addHeader(HttpHeaders.AUTHORIZATION, "key=" + key).setEntity(body).build());
+            HttpResponse response = httpClient.execute( RequestBuilder
+                    .post(requestUrl)
+                    .addHeader(HttpHeaders.AUTHORIZATION, "key=" + key)
+                    .setEntity(body).build());
 
             if (response.getStatusLine().getStatusCode() != HttpStatusCodes.STATUS_CODE_OK) {
                 logger.error(String.format("Статус: %d, , уведомление не отправлено по причине: %s",

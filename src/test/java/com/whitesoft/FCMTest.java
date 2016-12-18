@@ -23,6 +23,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 import java.io.IOException;
+import java.util.Date;
 import java.util.UUID;
 
 import static com.whitesoft.messaging.util.FCMHelper.TYPE_TO;
@@ -62,7 +63,7 @@ public class FCMTest {
     @Test
     public void testSendMessageLikeGolos(){
 
-        PushNotification notification = new PushNotification("/topics/ads", UUID.randomUUID(),"Заголовок","Тельце");
+        PushNotification notification = new PushNotification("/topics/ads", UUID.randomUUID(), new Date(), "Заголовок", "Тельце");
 
         try {
 

@@ -36,6 +36,12 @@ public class PushNotification {
         @JsonProperty("sound")
         private final String sound = "default";
 
+        /**
+         * Индикатор для отображения отметки о наличие непрочитанных уведомлений.
+         */
+        @JsonProperty("badge")
+        private final int badge = 1;
+
         public Notification(String title, String body) {
             this.title = title;
             this.body = body;
@@ -46,15 +52,24 @@ public class PushNotification {
      * Передаем данные вместе с push-уведомлением.
      */
     private class Data {
+
         /**
-         *
+         * Внутри системный, уникальный идентификатор объявления
          */
         @JsonProperty("id")
         private final String id;
 
-        public Data(final UUID uuid){
+        /**
+         * Дата объявления.
+         */
+        @JsonProperty("date")
+        private final Date date;
+
+        public Data(final UUID uuid, final Date date){
             this.id = uuid.toString();
+            this.date = date;
         }
+
     }
 
     /**
@@ -91,9 +106,9 @@ public class PushNotification {
      * @param title
      * @param body
      */
-    public PushNotification(final String to, final UUID uuid, final String title, final String body){
+    public PushNotification(final String to, final UUID uuid, final Date date, final String title, final String body){
         this.to = to;
-        this.data = new Data(uuid);
+        this.data = new Data(uuid, date);
         this.notification = new Notification(title,body);
     }
 }

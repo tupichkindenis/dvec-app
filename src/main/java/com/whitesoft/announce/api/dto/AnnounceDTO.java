@@ -1,5 +1,6 @@
 package com.whitesoft.announce.api.dto;
 
+import io.swagger.annotations.ApiModel;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -10,6 +11,7 @@ import java.util.Date;
 /**
  * Created by tupichkindenis on 08.11.16.
  */
+@ApiModel
 public class AnnounceDTO {
 
     private String id;
