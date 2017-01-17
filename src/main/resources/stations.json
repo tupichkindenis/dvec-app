@@ -7302,6 +7302,7 @@
     "address": {
       "index": null,
       "region": "Амурская область",
+
       "district": "",
       "settlement": "г. Благовещенск",
       "street": "ул. 50-лет Октября",
@@ -7377,7 +7378,7 @@
     },
     "office": {
       "name": "Благовещенский РКЦ",
-      "id": "96665C93-8CD8-4CF7-9FE3-DECCC8DE6BD3"
+      "id": "FE989FBC-0FE6-43F4-92D5-D82B067A646F"
     },
     "name": "Пунтк обслуживания",
     "address": {
