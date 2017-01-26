@@ -63,23 +63,23 @@ public class FCMTest {
     @Test
     public void testSendMessageLikeGolos(){
 
-        PushNotification notification = new PushNotification("/topics/ads", UUID.randomUUID(), new Date(), "Заголовок", "Тестовое сообщение.");
-
-        try {
-
-            HttpClient httpClient = HttpClientBuilder.create().build();
-
-            String body_json = JsonUtil.toJson(notification);
-            StringEntity body = new StringEntity(body_json != null ? body_json : "");
-            body.setContentType(contentType.getMimeType());
-
-            HttpResponse response = httpClient.execute(RequestBuilder.post(requestUrl).addHeader(HttpHeaders.AUTHORIZATION, "key=" + key).setEntity(body).build());
-
-            if (response.getStatusLine().getStatusCode() != HttpStatusCodes.STATUS_CODE_OK)
-                logger.error(String.format("Статус: %d, , уведомление не отправлено по причине: %s", response.getStatusLine().getStatusCode(), response.getStatusLine().getReasonPhrase()));
-
-        } catch (Exception e) {
-            logger.error(e.toString());
-        }
+//        PushNotification notification = new PushNotification("/topics/ads", UUID.randomUUID(), new Date(), "Заголовок", "Тестовое сообщение.");
+//
+//        try {
+//
+//            HttpClient httpClient = HttpClientBuilder.create().build();
+//
+//            String body_json = JsonUtil.toJson(notification);
+//            StringEntity body = new StringEntity(body_json != null ? body_json : "");
+//            body.setContentType(contentType.getMimeType());
+//
+//            HttpResponse response = httpClient.execute(RequestBuilder.post(requestUrl).addHeader(HttpHeaders.AUTHORIZATION, "key=" + key).setEntity(body).build());
+//
+//            if (response.getStatusLine().getStatusCode() != HttpStatusCodes.STATUS_CODE_OK)
+//                logger.error(String.format("Статус: %d, , уведомление не отправлено по причине: %s", response.getStatusLine().getStatusCode(), response.getStatusLine().getReasonPhrase()));
+//
+//        } catch (Exception e) {
+//            logger.error(e.toString());
+//        }
     }
 }
