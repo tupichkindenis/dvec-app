@@ -39,8 +39,8 @@ public class FCMTest {
 
     private final ContentType contentType = ContentType.APPLICATION_JSON;
 
-    private final String key = "AIzaSyCPknQdIBAHeRdHFAqBScSp2cg80CkmPSM";
-    private final String requestUrl = "https://fcm.googleapis.com/fcm/send";
+    private final String key = "AIzaSyCPknQdIBAHeRdHFAqBScSp2cg80CkmPSM(modified)";
+    private final String requestUrl = "https://fcm.googleapis.com/fcm/send(modified)";
 
 
     @Autowired
@@ -63,7 +63,7 @@ public class FCMTest {
     @Test
     public void testSendMessageLikeGolos(){
 
-        PushNotification notification = new PushNotification("/topics/ads", UUID.randomUUID(), new Date(), "Заголовок", "Тельце");
+        PushNotification notification = new PushNotification("/topics/ads", UUID.randomUUID(), new Date(), "Заголовок", "Тестовое сообщение.");
 
         try {
 
